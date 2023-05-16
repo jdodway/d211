@@ -1,0 +1,1845 @@
+,county_name,candidatevotes,party,"county, state",State,household internet
+0,Abbeville,8215,Republican,"Abbeville, SC",SC,82.0
+1,Aiken,51589,Republican,"Aiken, SC",SC,82.0
+2,Allendale,2718,Democrat,"Allendale, SC",SC,82.0
+3,Anderson,67565,Republican,"Anderson, SC",SC,82.0
+4,Bamberg,4010,Democrat,"Bamberg, SC",SC,82.0
+5,Barnwell,5492,Republican,"Barnwell, SC",SC,82.0
+6,Beaufort,53194,Republican,"Beaufort, SC",SC,82.0
+7,Berkeley,57397,Republican,"Berkeley, SC",SC,82.0
+8,Charleston,121485,Democrat,"Charleston, SC",SC,82.0
+9,Clarendon,8361,Republican,"Clarendon, SC",SC,82.0
+10,Colleton,10440,Republican,"Colleton, SC",SC,82.0
+11,Darlington,16832,Republican,"Darlington, SC",SC,82.0
+12,Dillon,6582,Republican,"Dillon, SC",SC,82.0
+13,Dorchester,41913,Republican,"Dorchester, SC",SC,82.0
+14,Edgefield,8184,Republican,"Edgefield, SC",SC,82.0
+15,Florence,32615,Republican,"Florence, SC",SC,82.0
+16,Georgetown,20487,Republican,"Georgetown, SC",SC,82.0
+17,Greenville,150021,Republican,"Greenville, SC",SC,82.0
+18,Greenwood,19431,Republican,"Greenwood, SC",SC,82.0
+19,Hampton,5323,Democrat,"Hampton, SC",SC,82.0
+20,Horry,118821,Republican,"Horry, SC",SC,82.0
+21,Kershaw,20471,Republican,"Kershaw, SC",SC,82.0
+22,Laurens,20004,Republican,"Laurens, SC",SC,82.0
+23,Lexington,92817,Republican,"Lexington, SC",SC,82.0
+24,Marlboro,6290,Democrat,"Marlboro, SC",SC,82.0
+25,Mccormick,2958,Republican,"Mccormick, SC",SC,82.0
+26,Newberry,11443,Republican,"Newberry, SC",SC,82.0
+27,Oconee,29698,Republican,"Oconee, SC",SC,82.0
+28,Orangeburg,27295,Democrat,"Orangeburg, SC",SC,82.0
+29,Pickens,42907,Republican,"Pickens, SC",SC,82.0
+30,Richland,132570,Democrat,"Richland, SC",SC,82.0
+31,Saluda,6210,Republican,"Saluda, SC",SC,82.0
+32,Spartanburg,93560,Republican,"Spartanburg, SC",SC,82.0
+33,Williamsburg,10289,Democrat,"Williamsburg, SC",SC,82.0
+34,Acadia,22596,Republican,"Acadia, LA",LA,79.2
+35,Ascension,40687,Republican,"Ascension, LA",LA,79.2
+36,Assumption,7271,Republican,"Assumption, LA",LA,79.2
+37,Avoyelles,12028,Republican,"Avoyelles, LA",LA,79.2
+38,Beauregard,13575,Republican,"Beauregard, LA",LA,79.2
+39,Bienville,3891,Republican,"Bienville, LA",LA,79.2
+40,Bossier,38074,Republican,"Bossier, LA",LA,79.2
+41,Caddo,55110,Democrat,"Caddo, LA",LA,79.2
+42,Calcasieu,55066,Republican,"Calcasieu, LA",LA,79.2
+43,Catahoula,3541,Republican,"Catahoula, LA",LA,79.2
+44,Concordia,5550,Republican,"Concordia, LA",LA,79.2
+45,De soto,9112,Republican,"De soto, LA",LA,79.2
+46,East baton rouge,115577,Democrat,"East baton rouge, LA",LA,79.2
+47,East carroll,1900,Democrat,"East carroll, LA",LA,79.2
+48,East feliciana,6064,Republican,"East feliciana, LA",LA,79.2
+49,Evangeline,11053,Republican,"Evangeline, LA",LA,79.2
+50,Iberia,21251,Republican,"Iberia, LA",LA,79.2
+51,Iberville,8514,Democrat,"Iberville, LA",LA,79.2
+52,Jefferson davis,11423,Republican,"Jefferson davis, LA",LA,79.2
+53,La salle,6378,Republican,"La salle, LA",LA,79.2
+54,Lafayette,72519,Republican,"Lafayette, LA",LA,79.2
+55,Lafourche,36024,Republican,"Lafourche, LA",LA,79.2
+56,Morehouse,6510,Republican,"Morehouse, LA",LA,79.2
+57,Natchitoches,9358,Republican,"Natchitoches, LA",LA,79.2
+58,Orleans,147854,Democrat,"Orleans, LA",LA,79.2
+59,Ouachita,42255,Republican,"Ouachita, LA",LA,79.2
+60,Plaquemines,7412,Republican,"Plaquemines, LA",LA,79.2
+61,Pointe coupee,7503,Republican,"Pointe coupee, LA",LA,79.2
+62,Rapides,38347,Republican,"Rapides, LA",LA,79.2
+63,Sabine,8776,Republican,"Sabine, LA",LA,79.2
+64,St. bernard,11179,Republican,"St. bernard, LA",LA,79.2
+65,St. helena,3346,Democrat,"St. helena, LA",LA,79.2
+66,St. james,6510,Democrat,"St. james, LA",LA,79.2
+67,St. john the baptist,13582,Democrat,"St. john the baptist, LA",LA,79.2
+68,St. landry,23171,Republican,"St. landry, LA",LA,79.2
+69,St. martin,18203,Republican,"St. martin, LA",LA,79.2
+70,St. mary,14811,Republican,"St. mary, LA",LA,79.2
+71,St. tammany,99666,Republican,"St. tammany, LA",LA,79.2
+72,Tangipahoa,37806,Republican,"Tangipahoa, LA",LA,79.2
+73,Tensas,1329,Democrat,"Tensas, LA",LA,79.2
+74,Terrebonne,34339,Republican,"Terrebonne, LA",LA,79.2
+75,Vermilion,21930,Republican,"Vermilion, LA",LA,79.2
+76,Vernon,14107,Republican,"Vernon, LA",LA,79.2
+77,West baton rouge,7684,Republican,"West baton rouge, LA",LA,79.2
+78,West carroll,4317,Republican,"West carroll, LA",LA,79.2
+79,West feliciana,3863,Republican,"West feliciana, LA",LA,79.2
+80,Winn,4619,Republican,"Winn, LA",LA,79.2
+81,Accomack,9172,Republican,"Accomack, VA",VA,86.1
+82,Albemarle,42466,Democrat,"Albemarle, VA",VA,86.1
+83,Alexandria city,66240,Democrat,"Alexandria city, VA",VA,86.1
+84,Alleghany,5859,Republican,"Alleghany, VA",VA,86.1
+85,Amelia,5390,Republican,"Amelia, VA",VA,86.1
+86,Amherst,11041,Republican,"Amherst, VA",VA,86.1
+87,Appomattox,6702,Republican,"Appomattox, VA",VA,86.1
+88,Arlington,105344,Democrat,"Arlington, VA",VA,86.1
+89,Augusta,30714,Republican,"Augusta, VA",VA,86.1
+90,Bedford,35600,Republican,"Bedford, VA",VA,86.1
+91,Bland,2903,Republican,"Bland, VA",VA,86.1
+92,Botetourt,15099,Republican,"Botetourt, VA",VA,86.1
+93,Bristol city,5347,Republican,"Bristol city, VA",VA,86.1
+94,Buckingham,4544,Republican,"Buckingham, VA",VA,86.1
+95,Buena vista city,1863,Republican,"Buena vista city, VA",VA,86.1
+96,Charles city,2624,Democrat,"Charles city, VA",VA,86.1
+97,Charlottesville city,20696,Democrat,"Charlottesville city, VA",VA,86.1
+98,Chesapeake city,66377,Democrat,"Chesapeake city, VA",VA,86.1
+99,Chesterfield,106935,Democrat,"Chesterfield, VA",VA,86.1
+100,Colonial heights city,6007,Republican,"Colonial heights city, VA",VA,86.1
+101,Covington city,1580,Republican,"Covington city, VA",VA,86.1
+102,Culpeper,16012,Republican,"Culpeper, VA",VA,86.1
+103,Danville city,11710,Democrat,"Danville city, VA",VA,86.1
+104,Dickenson,5748,Republican,"Dickenson, VA",VA,86.1
+105,Dinwiddie,8695,Republican,"Dinwiddie, VA",VA,86.1
+106,Emporia city,1612,Democrat,"Emporia city, VA",VA,86.1
+107,Fairfax,419943,Democrat,"Fairfax, VA",VA,86.1
+108,Fairfax city,9174,Democrat,"Fairfax city, VA",VA,86.1
+109,Falls church city,7146,Democrat,"Falls church city, VA",VA,86.1
+110,Fauquier,25106,Republican,"Fauquier, VA",VA,86.1
+111,Fluvanna,8155,Republican,"Fluvanna, VA",VA,86.1
+112,Franklin city,2525,Democrat,"Franklin city, VA",VA,86.1
+113,Fredericksburg city,8517,Democrat,"Fredericksburg city, VA",VA,86.1
+114,Galax city,1838,Republican,"Galax city, VA",VA,86.1
+115,Goochland,9966,Republican,"Goochland, VA",VA,86.1
+116,Greensville,2627,Democrat,"Greensville, VA",VA,86.1
+117,Hampton city,46220,Democrat,"Hampton city, VA",VA,86.1
+118,Hanover,44318,Republican,"Hanover, VA",VA,86.1
+119,Harrisonburg city,11022,Democrat,"Harrisonburg city, VA",VA,86.1
+120,Henrico,116572,Democrat,"Henrico, VA",VA,86.1
+121,Hopewell city,5430,Democrat,"Hopewell city, VA",VA,86.1
+122,Isle of wight,13707,Republican,"Isle of wight, VA",VA,86.1
+123,James city,25553,Democrat,"James city, VA",VA,86.1
+124,King and queen,2450,Republican,"King and queen, VA",VA,86.1
+125,King george,8446,Republican,"King george, VA",VA,86.1
+126,King william,7320,Republican,"King william, VA",VA,86.1
+127,Lexington city,1791,Democrat,"Lexington city, VA",VA,86.1
+128,Loudoun,138372,Democrat,"Loudoun, VA",VA,86.1
+129,Louisa,13294,Republican,"Louisa, VA",VA,86.1
+130,Lunenburg,3537,Republican,"Lunenburg, VA",VA,86.1
+131,Lynchburg city,18048,Democrat,"Lynchburg city, VA",VA,86.1
+132,Manassas city,10356,Democrat,"Manassas city, VA",VA,86.1
+133,Manassas park city,3992,Democrat,"Manassas park city, VA",VA,86.1
+134,Martinsville city,3766,Democrat,"Martinsville city, VA",VA,86.1
+135,Mathews,3901,Republican,"Mathews, VA",VA,86.1
+136,New kent,9631,Republican,"New kent, VA",VA,86.1
+137,Newport news city,53099,Democrat,"Newport news city, VA",VA,86.1
+138,Norfolk city,64440,Democrat,"Norfolk city, VA",VA,86.1
+139,Norton city,1109,Republican,"Norton city, VA",VA,86.1
+140,Nottoway,4027,Republican,"Nottoway, VA",VA,86.1
+141,Page,9345,Republican,"Page, VA",VA,86.1
+142,Patrick,7485,Republican,"Patrick, VA",VA,86.1
+143,Petersburg city,12389,Democrat,"Petersburg city, VA",VA,86.1
+144,Pittsylvania,23751,Republican,"Pittsylvania, VA",VA,86.1
+145,Poquoson city,5605,Republican,"Poquoson city, VA",VA,86.1
+146,Portsmouth city,30948,Democrat,"Portsmouth city, VA",VA,86.1
+147,Powhatan,14055,Republican,"Powhatan, VA",VA,86.1
+148,Prince edward,4973,Democrat,"Prince edward, VA",VA,86.1
+149,Prince george,10103,Republican,"Prince george, VA",VA,86.1
+150,Prince william,142863,Democrat,"Prince william, VA",VA,86.1
+151,Radford city,3358,Democrat,"Radford city, VA",VA,86.1
+152,Rappahannock,2812,Republican,"Rappahannock, VA",VA,86.1
+153,Richmond city,92175,Democrat,"Richmond city, VA",VA,86.1
+154,Roanoke,34268,Republican,"Roanoke, VA",VA,86.1
+155,Roanoke city,26773,Democrat,"Roanoke city, VA",VA,86.1
+156,Rockbridge,8088,Republican,"Rockbridge, VA",VA,86.1
+157,Salem city,7683,Republican,"Salem city, VA",VA,86.1
+158,Shenandoah,16463,Republican,"Shenandoah, VA",VA,86.1
+159,Smyth,10963,Republican,"Smyth, VA",VA,86.1
+160,Southampton,5730,Republican,"Southampton, VA",VA,86.1
+161,Spotsylvania,39411,Republican,"Spotsylvania, VA",VA,86.1
+162,Stafford,40245,Democrat,"Stafford, VA",VA,86.1
+163,Staunton city,6981,Democrat,"Staunton city, VA",VA,86.1
+164,Suffolk city,28676,Democrat,"Suffolk city, VA",VA,86.1
+165,Virginia beach city,117393,Democrat,"Virginia beach city, VA",VA,86.1
+166,Waynesboro city,5507,Republican,"Waynesboro city, VA",VA,86.1
+167,Williamsburg city,4790,Democrat,"Williamsburg city, VA",VA,86.1
+168,Winchester city,6610,Democrat,"Winchester city, VA",VA,86.1
+169,Wythe,11733,Republican,"Wythe, VA",VA,86.1
+170,Ada,130699,Republican,"Ada, ID",ID,88.0
+171,Bannock,23331,Republican,"Bannock, ID",ID,88.0
+172,Bear lake,2914,Republican,"Bear lake, ID",ID,88.0
+173,Benewah,3878,Republican,"Benewah, ID",ID,88.0
+174,Bingham,15295,Republican,"Bingham, ID",ID,88.0
+175,Blaine,8919,Democrat,"Blaine, ID",ID,88.0
+176,Boise,3485,Republican,"Boise, ID",ID,88.0
+177,Bonner,18369,Republican,"Bonner, ID",ID,88.0
+178,Bonneville,37805,Republican,"Bonneville, ID",ID,88.0
+179,Boundary,4937,Republican,"Boundary, ID",ID,88.0
+180,Camas,507,Republican,"Camas, ID",ID,88.0
+181,Canyon,61759,Republican,"Canyon, ID",ID,88.0
+182,Caribou,2906,Republican,"Caribou, ID",ID,88.0
+183,Cassia,7907,Republican,"Cassia, ID",ID,88.0
+184,Clearwater,3453,Republican,"Clearwater, ID",ID,88.0
+185,Gem,7951,Republican,"Gem, ID",ID,88.0
+186,Gooding,4659,Republican,"Gooding, ID",ID,88.0
+187,Idaho,7826,Republican,"Idaho, ID",ID,88.0
+188,Jerome,5734,Republican,"Jerome, ID",ID,88.0
+189,Kootenai,62837,Republican,"Kootenai, ID",ID,88.0
+190,Latah,10236,Democrat,"Latah, ID",ID,88.0
+191,Lemhi,3592,Republican,"Lemhi, ID",ID,88.0
+192,Minidoka,6265,Republican,"Minidoka, ID",ID,88.0
+193,Nez perce,13738,Republican,"Nez perce, ID",ID,88.0
+194,Owyhee,3819,Republican,"Owyhee, ID",ID,88.0
+195,Payette,8862,Republican,"Payette, ID",ID,88.0
+196,Power,2116,Republican,"Power, ID",ID,88.0
+197,Shoshone,4216,Republican,"Shoshone, ID",ID,88.0
+198,Twin falls,25897,Republican,"Twin falls, ID",ID,88.0
+199,Valley,3947,Republican,"Valley, ID",ID,88.0
+200,Adair,7276,Republican,"Adair, KY",KY,82.3
+201,Ballard,3356,Republican,"Ballard, KY",KY,82.3
+202,Barren,14654,Republican,"Barren, KY",KY,82.3
+203,Bath,3986,Republican,"Bath, KY",KY,82.3
+204,Bourbon,6190,Republican,"Bourbon, KY",KY,82.3
+205,Boyd,14295,Republican,"Boyd, KY",KY,82.3
+206,Boyle,8872,Republican,"Boyle, KY",KY,82.3
+207,Bracken,3398,Republican,"Bracken, KY",KY,82.3
+208,Breathitt,4265,Republican,"Breathitt, KY",KY,82.3
+209,Breckinridge,7701,Republican,"Breckinridge, KY",KY,82.3
+210,Bullitt,30708,Republican,"Bullitt, KY",KY,82.3
+211,Calloway,11351,Republican,"Calloway, KY",KY,82.3
+212,Campbell,28482,Republican,"Campbell, KY",KY,82.3
+213,Carlisle,2159,Republican,"Carlisle, KY",KY,82.3
+214,Casey,6179,Republican,"Casey, KY",KY,82.3
+215,Daviess,31023,Republican,"Daviess, KY",KY,82.3
+216,Edmonson,4828,Republican,"Edmonson, KY",KY,82.3
+217,Elliott,2246,Republican,"Elliott, KY",KY,82.3
+218,Estill,5100,Republican,"Estill, KY",KY,82.3
+219,Fayette,90566,Democrat,"Fayette, KY",KY,82.3
+220,Fleming,5534,Republican,"Fleming, KY",KY,82.3
+221,Garrard,6754,Republican,"Garrard, KY",KY,82.3
+222,Graves,13206,Republican,"Graves, KY",KY,82.3
+223,Greenup,13064,Republican,"Greenup, KY",KY,82.3
+224,Hardin,29832,Republican,"Hardin, KY",KY,82.3
+225,Harlan,9367,Republican,"Harlan, KY",KY,82.3
+226,Hopkins,15757,Republican,"Hopkins, KY",KY,82.3
+227,Jefferson,228288,Democrat,"Jefferson, KY",KY,82.3
+228,Jessamine,17096,Republican,"Jessamine, KY",KY,82.3
+229,Kenton,48123,Republican,"Kenton, KY",KY,82.3
+230,Knott,4779,Republican,"Knott, KY",KY,82.3
+231,Larue,5685,Republican,"Larue, KY",KY,82.3
+232,Laurel,23234,Republican,"Laurel, KY",KY,82.3
+233,Leslie,4321,Republican,"Leslie, KY",KY,82.3
+234,Letcher,7226,Republican,"Letcher, KY",KY,82.3
+235,Magoffin,4174,Republican,"Magoffin, KY",KY,82.3
+236,Mccracken,21820,Republican,"Mccracken, KY",KY,82.3
+237,Mccreary,5664,Republican,"Mccreary, KY",KY,82.3
+238,Meade,10184,Republican,"Meade, KY",KY,82.3
+239,Menifee,2311,Republican,"Menifee, KY",KY,82.3
+240,Metcalfe,3959,Republican,"Metcalfe, KY",KY,82.3
+241,Muhlenberg,10496,Republican,"Muhlenberg, KY",KY,82.3
+242,Nelson,15703,Republican,"Nelson, KY",KY,82.3
+243,Oldham,22651,Republican,"Oldham, KY",KY,82.3
+244,Owsley,1670,Republican,"Owsley, KY",KY,82.3
+245,Pendleton,5515,Republican,"Pendleton, KY",KY,82.3
+246,Pike,20279,Republican,"Pike, KY",KY,82.3
+247,Powell,4041,Republican,"Powell, KY",KY,82.3
+248,Rockcastle,6577,Republican,"Rockcastle, KY",KY,82.3
+249,Spencer,8737,Republican,"Spencer, KY",KY,82.3
+250,Trigg,5487,Republican,"Trigg, KY",KY,82.3
+251,Trimble,3227,Republican,"Trimble, KY",KY,82.3
+252,Wolfe,2097,Republican,"Wolfe, KY",KY,82.3
+253,Adams,134202,Democrat,"Adams, CO",CO,90.4
+254,Alamosa,3813,Republican,"Alamosa, CO",CO,90.4
+255,Arapahoe,213607,Democrat,"Arapahoe, CO",CO,90.4
+256,Archuleta,5189,Republican,"Archuleta, CO",CO,90.4
+257,Baca,1867,Republican,"Baca, CO",CO,90.4
+258,Bent,1503,Republican,"Bent, CO",CO,90.4
+259,Boulder,159089,Democrat,"Boulder, CO",CO,90.4
+260,Broomfield,29077,Democrat,"Broomfield, CO",CO,90.4
+261,Chaffee,7160,Democrat,"Chaffee, CO",CO,90.4
+262,Clear creek,3604,Democrat,"Clear creek, CO",CO,90.4
+263,Conejos,2286,Republican,"Conejos, CO",CO,90.4
+264,Costilla,1311,Democrat,"Costilla, CO",CO,90.4
+265,Crowley,1271,Republican,"Crowley, CO",CO,90.4
+266,Denver,313293,Democrat,"Denver, CO",CO,90.4
+267,Dolores,1089,Republican,"Dolores, CO",CO,90.4
+268,Eagle,18588,Democrat,"Eagle, CO",CO,90.4
+269,El paso,202828,Republican,"El paso, CO",CO,90.4
+270,Elbert,14027,Republican,"Elbert, CO",CO,90.4
+271,Fremont,17517,Republican,"Fremont, CO",CO,90.4
+272,Gilpin,2223,Democrat,"Gilpin, CO",CO,90.4
+273,Grand,4883,Republican,"Grand, CO",CO,90.4
+274,Gunnison,7132,Democrat,"Gunnison, CO",CO,90.4
+275,Hinsdale,353,Republican,"Hinsdale, CO",CO,90.4
+276,Huerfano,2203,Republican,"Huerfano, CO",CO,90.4
+277,Kit carson,3144,Republican,"Kit carson, CO",CO,90.4
+278,La plata,20548,Democrat,"La plata, CO",CO,90.4
+279,Larimer,126120,Democrat,"Larimer, CO",CO,90.4
+280,Las animas,4284,Republican,"Las animas, CO",CO,90.4
+281,Mesa,56894,Republican,"Mesa, CO",CO,90.4
+282,Moffat,5670,Republican,"Moffat, CO",CO,90.4
+283,Montezuma,9306,Republican,"Montezuma, CO",CO,90.4
+284,Montrose,16770,Republican,"Montrose, CO",CO,90.4
+285,Ouray,2365,Democrat,"Ouray, CO",CO,90.4
+286,Pitkin,8989,Democrat,"Pitkin, CO",CO,90.4
+287,Prowers,4008,Republican,"Prowers, CO",CO,90.4
+288,Pueblo,43772,Democrat,"Pueblo, CO",CO,90.4
+289,Rio blanco,3061,Republican,"Rio blanco, CO",CO,90.4
+290,Rio grande,3660,Republican,"Rio grande, CO",CO,90.4
+291,Routt,10582,Democrat,"Routt, CO",CO,90.4
+292,Saguache,1884,Democrat,"Saguache, CO",CO,90.4
+293,Teller,11241,Republican,"Teller, CO",CO,90.4
+294,Weld,96145,Republican,"Weld, CO",CO,90.4
+295,Addison,15089,Democrat,"Addison, VT",VT,82.6
+296,Bennington,11858,Democrat,"Bennington, VT",VT,82.6
+297,Caledonia,8529,Democrat,"Caledonia, VT",VT,82.6
+298,Chittenden,72938,Democrat,"Chittenden, VT",VT,82.6
+299,Grand isle,3346,Democrat,"Grand isle, VT",VT,82.6
+300,Lamoille,10773,Democrat,"Lamoille, VT",VT,82.6
+301,Rutland,18746,Democrat,"Rutland, VT",VT,82.6
+302,Windsor,24779,Democrat,"Windsor, VT",VT,82.6
+303,Aitkin,6258,Republican,"Aitkin, MN",MN,87.3
+304,Anoka,104902,Republican,"Anoka, MN",MN,87.3
+305,Becker,12438,Republican,"Becker, MN",MN,87.3
+306,Beltrami,12188,Republican,"Beltrami, MN",MN,87.3
+307,Big stone,1863,Republican,"Big stone, MN",MN,87.3
+308,Blue earth,18330,Democrat,"Blue earth, MN",MN,87.3
+309,Carlton,10098,Democrat,"Carlton, MN",MN,87.3
+310,Carver,34009,Republican,"Carver, MN",MN,87.3
+311,Chisago,21916,Republican,"Chisago, MN",MN,87.3
+312,Cottonwood,4165,Republican,"Cottonwood, MN",MN,87.3
+313,Crow wing,25676,Republican,"Crow wing, MN",MN,87.3
+314,Dakota,146155,Democrat,"Dakota, MN",MN,87.3
+315,Faribault,5191,Republican,"Faribault, MN",MN,87.3
+316,Fillmore,7301,Republican,"Fillmore, MN",MN,87.3
+317,Freeborn,9578,Republican,"Freeborn, MN",MN,87.3
+318,Goodhue,16052,Republican,"Goodhue, MN",MN,87.3
+319,Hennepin,532623,Democrat,"Hennepin, MN",MN,87.3
+320,Hubbard,8202,Republican,"Hubbard, MN",MN,87.3
+321,Isanti,16491,Republican,"Isanti, MN",MN,87.3
+322,Itasca,15239,Republican,"Itasca, MN",MN,87.3
+323,Kanabec,6278,Republican,"Kanabec, MN",MN,87.3
+324,Kandiyohi,14437,Republican,"Kandiyohi, MN",MN,87.3
+325,Kittson,1546,Republican,"Kittson, MN",MN,87.3
+326,Koochiching,4131,Republican,"Koochiching, MN",MN,87.3
+327,Lac qui parle,2528,Republican,"Lac qui parle, MN",MN,87.3
+328,Lake of the woods,1704,Republican,"Lake of the woods, MN",MN,87.3
+329,Le sueur,10775,Republican,"Le sueur, MN",MN,87.3
+330,Mahnomen,1142,Republican,"Mahnomen, MN",MN,87.3
+331,Mcleod,13986,Republican,"Mcleod, MN",MN,87.3
+332,Meeker,9359,Republican,"Meeker, MN",MN,87.3
+333,Mille lacs,9952,Republican,"Mille lacs, MN",MN,87.3
+334,Morrison,14821,Republican,"Morrison, MN",MN,87.3
+335,Mower,10025,Republican,"Mower, MN",MN,87.3
+336,Nicollet,9622,Democrat,"Nicollet, MN",MN,87.3
+337,Nobles,5600,Republican,"Nobles, MN",MN,87.3
+338,Norman,1953,Republican,"Norman, MN",MN,87.3
+339,Olmsted,49491,Democrat,"Olmsted, MN",MN,87.3
+340,Otter tail,23800,Republican,"Otter tail, MN",MN,87.3
+341,Pine,10256,Republican,"Pine, MN",MN,87.3
+342,Pipestone,3553,Republican,"Pipestone, MN",MN,87.3
+343,Ramsey,211620,Democrat,"Ramsey, MN",MN,87.3
+344,Red lake,1454,Republican,"Red lake, MN",MN,87.3
+345,Redwood,5771,Republican,"Redwood, MN",MN,87.3
+346,Renville,5467,Republican,"Renville, MN",MN,87.3
+347,Rice,17464,Republican,"Rice, MN",MN,87.3
+348,Roseau,6065,Republican,"Roseau, MN",MN,87.3
+349,Saint louis,67704,Democrat,"Saint louis, MN",MN,87.3
+350,Sherburne,36222,Republican,"Sherburne, MN",MN,87.3
+351,Sibley,5864,Republican,"Sibley, MN",MN,87.3
+352,Stearns,50959,Republican,"Stearns, MN",MN,87.3
+353,Steele,12656,Republican,"Steele, MN",MN,87.3
+354,Swift,3316,Republican,"Swift, MN",MN,87.3
+355,Todd,9753,Republican,"Todd, MN",MN,87.3
+356,Traverse,1172,Republican,"Traverse, MN",MN,87.3
+357,Wabasha,8153,Republican,"Wabasha, MN",MN,87.3
+358,Wadena,5520,Republican,"Wadena, MN",MN,87.3
+359,Waseca,6624,Republican,"Waseca, MN",MN,87.3
+360,Watonwan,3103,Republican,"Watonwan, MN",MN,87.3
+361,Wilkin,2328,Republican,"Wilkin, MN",MN,87.3
+362,Winona,13333,Democrat,"Winona, MN",MN,87.3
+363,Wright,51973,Republican,"Wright, MN",MN,87.3
+364,Yellow medicine,3734,Republican,"Yellow medicine, MN",MN,87.3
+365,Alachua,89704,Democrat,"Alachua, FL",FL,86.2
+366,Baker,11911,Republican,"Baker, FL",FL,86.2
+367,Bay,66097,Republican,"Bay, FL",FL,86.2
+368,Brevard,207883,Republican,"Brevard, FL",FL,86.2
+369,Broward,618752,Democrat,"Broward, FL",FL,86.2
+370,Charlotte,73243,Republican,"Charlotte, FL",FL,86.2
+371,Citrus,65352,Republican,"Citrus, FL",FL,86.2
+372,Clay,84480,Republican,"Clay, FL",FL,86.2
+373,Collier,128950,Republican,"Collier, FL",FL,86.2
+374,Dixie,6759,Republican,"Dixie, FL",FL,86.2
+375,Duval,252556,Democrat,"Duval, FL",FL,86.2
+376,Escambia,96674,Republican,"Escambia, FL",FL,86.2
+377,Flagler,43043,Republican,"Flagler, FL",FL,86.2
+378,Gadsden,16153,Democrat,"Gadsden, FL",FL,86.2
+379,Gilchrist,7895,Republican,"Gilchrist, FL",FL,86.2
+380,Glades,3782,Republican,"Glades, FL",FL,86.2
+381,Gulf,6113,Republican,"Gulf, FL",FL,86.2
+382,Hardee,6122,Republican,"Hardee, FL",FL,86.2
+383,Hendry,7906,Republican,"Hendry, FL",FL,86.2
+384,Hernando,70412,Republican,"Hernando, FL",FL,86.2
+385,Highlands,34873,Republican,"Highlands, FL",FL,86.2
+386,Hillsborough,376367,Democrat,"Hillsborough, FL",FL,86.2
+387,Indian river,58872,Republican,"Indian river, FL",FL,86.2
+388,Lee,233247,Republican,"Lee, FL",FL,86.2
+389,Leon,103517,Democrat,"Leon, FL",FL,86.2
+390,Levy,16749,Republican,"Levy, FL",FL,86.2
+391,Manatee,124987,Republican,"Manatee, FL",FL,86.2
+392,Martin,61168,Republican,"Martin, FL",FL,86.2
+393,Miami-dade,617864,Democrat,"Miami-dade, FL",FL,86.2
+394,Okaloosa,79798,Republican,"Okaloosa, FL",FL,86.2
+395,Okeechobee,11470,Republican,"Okeechobee, FL",FL,86.2
+396,Osceola,97297,Democrat,"Osceola, FL",FL,86.2
+397,Palm beach,433572,Democrat,"Palm beach, FL",FL,86.2
+398,Pasco,179621,Republican,"Pasco, FL",FL,86.2
+399,Pinellas,277450,Democrat,"Pinellas, FL",FL,86.2
+400,Polk,194586,Republican,"Polk, FL",FL,86.2
+401,Santa rosa,77385,Republican,"Santa rosa, FL",FL,86.2
+402,Sarasota,148370,Republican,"Sarasota, FL",FL,86.2
+403,Seminole,132528,Democrat,"Seminole, FL",FL,86.2
+404,St. johns,110946,Republican,"St. johns, FL",FL,86.2
+405,St. lucie,86831,Republican,"St. lucie, FL",FL,86.2
+406,Sumter,62761,Republican,"Sumter, FL",FL,86.2
+407,Suwannee,16410,Republican,"Suwannee, FL",FL,86.2
+408,Volusia,173821,Republican,"Volusia, FL",FL,86.2
+409,Wakulla,12874,Republican,"Wakulla, FL",FL,86.2
+410,Alamance,46056,Republican,"Alamance, NC",NC,84.5
+411,Alexander,15888,Republican,"Alexander, NC",NC,84.5
+412,Anson,5789,Democrat,"Anson, NC",NC,84.5
+413,Ashe,11451,Republican,"Ashe, NC",NC,84.5
+414,Avery,7172,Republican,"Avery, NC",NC,84.5
+415,Bertie,5939,Democrat,"Bertie, NC",NC,84.5
+416,Bladen,9676,Republican,"Bladen, NC",NC,84.5
+417,Brunswick,55850,Republican,"Brunswick, NC",NC,84.5
+418,Buncombe,96515,Democrat,"Buncombe, NC",NC,84.5
+419,Burke,31019,Republican,"Burke, NC",NC,84.5
+420,Cabarrus,63237,Republican,"Cabarrus, NC",NC,84.5
+421,Caldwell,32119,Republican,"Caldwell, NC",NC,84.5
+422,Carteret,30028,Republican,"Carteret, NC",NC,84.5
+423,Caswell,7089,Republican,"Caswell, NC",NC,84.5
+424,Catawba,56588,Republican,"Catawba, NC",NC,84.5
+425,Chowan,4471,Republican,"Chowan, NC",NC,84.5
+426,Columbus,16832,Republican,"Columbus, NC",NC,84.5
+427,Craven,31032,Republican,"Craven, NC",NC,84.5
+428,Currituck,11657,Republican,"Currituck, NC",NC,84.5
+429,Dare,13938,Republican,"Dare, NC",NC,84.5
+430,Davie,18228,Republican,"Davie, NC",NC,84.5
+431,Duplin,13793,Republican,"Duplin, NC",NC,84.5
+432,Durham,144688,Democrat,"Durham, NC",NC,84.5
+433,Edgecombe,16089,Democrat,"Edgecombe, NC",NC,84.5
+434,Forsyth,113033,Democrat,"Forsyth, NC",NC,84.5
+435,Gaston,73033,Republican,"Gaston, NC",NC,84.5
+436,Gates,3367,Republican,"Gates, NC",NC,84.5
+437,Granville,16647,Republican,"Granville, NC",NC,84.5
+438,Guilford,173086,Democrat,"Guilford, NC",NC,84.5
+439,Halifax,15545,Democrat,"Halifax, NC",NC,84.5
+440,Harnett,35177,Republican,"Harnett, NC",NC,84.5
+441,Haywood,22834,Republican,"Haywood, NC",NC,84.5
+442,Henderson,40032,Republican,"Henderson, NC",NC,84.5
+443,Hertford,7097,Democrat,"Hertford, NC",NC,84.5
+444,Hoke,11804,Democrat,"Hoke, NC",NC,84.5
+445,Hyde,1418,Republican,"Hyde, NC",NC,84.5
+446,Iredell,67010,Republican,"Iredell, NC",NC,84.5
+447,Johnston,68353,Republican,"Johnston, NC",NC,84.5
+448,Lenoir,14590,Republican,"Lenoir, NC",NC,84.5
+449,Lincoln,36341,Republican,"Lincoln, NC",NC,84.5
+450,Mcdowell,16883,Republican,"Mcdowell, NC",NC,84.5
+451,Mecklenburg,378107,Democrat,"Mecklenburg, NC",NC,84.5
+452,Mitchell,7090,Republican,"Mitchell, NC",NC,84.5
+453,Moore,36764,Republican,"Moore, NC",NC,84.5
+454,Nash,25947,Democrat,"Nash, NC",NC,84.5
+455,New hanover,66138,Democrat,"New hanover, NC",NC,84.5
+456,Onslow,46078,Republican,"Onslow, NC",NC,84.5
+457,Pamlico,4849,Republican,"Pamlico, NC",NC,84.5
+458,Pasquotank,9832,Democrat,"Pasquotank, NC",NC,84.5
+459,Pender,21956,Republican,"Pender, NC",NC,84.5
+460,Perquimans,4903,Republican,"Perquimans, NC",NC,84.5
+461,Person,13184,Republican,"Person, NC",NC,84.5
+462,Pitt,47252,Democrat,"Pitt, NC",NC,84.5
+463,Randolph,56894,Republican,"Randolph, NC",NC,84.5
+464,Robeson,27806,Republican,"Robeson, NC",NC,84.5
+465,Rowan,49297,Republican,"Rowan, NC",NC,84.5
+466,Sampson,17411,Republican,"Sampson, NC",NC,84.5
+467,Scotland,7473,Republican,"Scotland, NC",NC,84.5
+468,Stanly,25458,Republican,"Stanly, NC",NC,84.5
+469,Stokes,20142,Republican,"Stokes, NC",NC,84.5
+470,Surry,27538,Republican,"Surry, NC",NC,84.5
+471,Swain,4161,Republican,"Swain, NC",NC,84.5
+472,Transylvania,11636,Republican,"Transylvania, NC",NC,84.5
+473,Tyrrell,1044,Republican,"Tyrrell, NC",NC,84.5
+474,Vance,12431,Democrat,"Vance, NC",NC,84.5
+475,Wake,393336,Democrat,"Wake, NC",NC,84.5
+476,Watauga,17122,Democrat,"Watauga, NC",NC,84.5
+477,Wilkes,27592,Republican,"Wilkes, NC",NC,84.5
+478,Yadkin,15933,Republican,"Yadkin, NC",NC,84.5
+479,Yancey,7516,Republican,"Yancey, NC",NC,84.5
+480,Alameda,617659,Democrat,"Alameda, CA",CA,89.2
+481,Alpine,476,Democrat,"Alpine, CA",CA,89.2
+482,Amador,13585,Republican,"Amador, CA",CA,89.2
+483,Butte,50426,Democrat,"Butte, CA",CA,89.2
+484,Calaveras,16518,Republican,"Calaveras, CA",CA,89.2
+485,Colusa,4559,Republican,"Colusa, CA",CA,89.2
+486,Contra costa,416386,Democrat,"Contra costa, CA",CA,89.2
+487,Del norte,6461,Republican,"Del norte, CA",CA,89.2
+488,El dorado,61838,Republican,"El dorado, CA",CA,89.2
+489,Fresno,193025,Democrat,"Fresno, CA",CA,89.2
+490,Glenn,7063,Republican,"Glenn, CA",CA,89.2
+491,Humboldt,44768,Democrat,"Humboldt, CA",CA,89.2
+492,Imperial,34678,Democrat,"Imperial, CA",CA,89.2
+493,Inyo,4634,Democrat,"Inyo, CA",CA,89.2
+494,Kern,164484,Republican,"Kern, CA",CA,89.2
+495,Lassen,8970,Republican,"Lassen, CA",CA,89.2
+496,Los angeles,3028885,Democrat,"Los angeles, CA",CA,89.2
+497,Madera,29378,Republican,"Madera, CA",CA,89.2
+498,Marin,128288,Democrat,"Marin, CA",CA,89.2
+499,Mariposa,5950,Republican,"Mariposa, CA",CA,89.2
+500,Mendocino,28782,Democrat,"Mendocino, CA",CA,89.2
+501,Merced,48991,Democrat,"Merced, CA",CA,89.2
+502,Modoc,3109,Republican,"Modoc, CA",CA,89.2
+503,Mono,4013,Democrat,"Mono, CA",CA,89.2
+504,Monterey,113953,Democrat,"Monterey, CA",CA,89.2
+505,Napa,49817,Democrat,"Napa, CA",CA,89.2
+506,Nevada,36359,Democrat,"Nevada, CA",CA,89.2
+507,Orange,814009,Democrat,"Orange, CA",CA,89.2
+508,Placer,122488,Republican,"Placer, CA",CA,89.2
+509,Plumas,6445,Republican,"Plumas, CA",CA,89.2
+510,Riverside,528340,Democrat,"Riverside, CA",CA,89.2
+511,Sacramento,440808,Democrat,"Sacramento, CA",CA,89.2
+512,San benito,17628,Democrat,"San benito, CA",CA,89.2
+513,San bernardino,455859,Democrat,"San bernardino, CA",CA,89.2
+514,San diego,964650,Democrat,"San diego, CA",CA,89.2
+515,San francisco,378156,Democrat,"San francisco, CA",CA,89.2
+516,San joaquin,161137,Democrat,"San joaquin, CA",CA,89.2
+517,San luis obispo,88310,Democrat,"San luis obispo, CA",CA,89.2
+518,San mateo,291496,Democrat,"San mateo, CA",CA,89.2
+519,Santa barbara,129963,Democrat,"Santa barbara, CA",CA,89.2
+520,Santa clara,617967,Democrat,"Santa clara, CA",CA,89.2
+521,Santa cruz,114246,Democrat,"Santa cruz, CA",CA,89.2
+522,Shasta,60789,Republican,"Shasta, CA",CA,89.2
+523,Siskiyou,13290,Republican,"Siskiyou, CA",CA,89.2
+524,Solano,131639,Democrat,"Solano, CA",CA,89.2
+525,Sonoma,199938,Democrat,"Sonoma, CA",CA,89.2
+526,Stanislaus,105841,Democrat,"Stanislaus, CA",CA,89.2
+527,Sutter,24375,Republican,"Sutter, CA",CA,89.2
+528,Tehama,19141,Republican,"Tehama, CA",CA,89.2
+529,Tulare,77579,Republican,"Tulare, CA",CA,89.2
+530,Tuolumne,17689,Republican,"Tuolumne, CA",CA,89.2
+531,Ventura,251388,Democrat,"Ventura, CA",CA,89.2
+532,Yolo,67598,Democrat,"Yolo, CA",CA,89.2
+533,Yuba,17676,Republican,"Yuba, CA",CA,89.2
+534,Albany,99474,Democrat,"Albany, NY",NY,85.3
+535,Bronx,355374,Democrat,"Bronx, NY",NY,85.3
+536,Broome,47010,Democrat,"Broome, NY",NY,85.3
+537,Cattaraugus,22155,Republican,"Cattaraugus, NY",NY,85.3
+538,Cayuga,19512,Republican,"Cayuga, NY",NY,85.3
+539,Chautauqua,34853,Republican,"Chautauqua, NY",NY,85.3
+540,Chemung,21922,Republican,"Chemung, NY",NY,85.3
+541,Chenango,13482,Republican,"Chenango, NY",NY,85.3
+542,Cortland,10789,Republican,"Cortland, NY",NY,85.3
+543,Dutchess,81443,Democrat,"Dutchess, NY",NY,85.3
+544,Erie,267174,Democrat,"Erie, NY",NY,85.3
+545,Herkimer,18870,Republican,"Herkimer, NY",NY,85.3
+546,Kings,703310,Democrat,"Kings, NY",NY,85.3
+547,Monroe,225746,Democrat,"Monroe, NY",NY,85.3
+548,Nassau,396504,Democrat,"Nassau, NY",NY,85.3
+549,New york,603040,Democrat,"New york, NY",NY,85.3
+550,Niagara,56068,Republican,"Niagara, NY",NY,85.3
+551,Oneida,57180,Republican,"Oneida, NY",NY,85.3
+552,Onondaga,138894,Democrat,"Onondaga, NY",NY,85.3
+553,Ontario,29039,Republican,"Ontario, NY",NY,85.3
+554,Oswego,32138,Republican,"Oswego, NY",NY,85.3
+555,Otsego,14382,Republican,"Otsego, NY",NY,85.3
+556,Putnam,29283,Republican,"Putnam, NY",NY,85.3
+557,Queens,569038,Democrat,"Queens, NY",NY,85.3
+558,Rensselaer,40969,Democrat,"Rensselaer, NY",NY,85.3
+559,Richmond,123320,Republican,"Richmond, NY",NY,85.3
+560,Rockland,75802,Democrat,"Rockland, NY",NY,85.3
+561,Saratoga,68471,Democrat,"Saratoga, NY",NY,85.3
+562,Schenectady,42465,Democrat,"Schenectady, NY",NY,85.3
+563,Schoharie,9903,Republican,"Schoharie, NY",NY,85.3
+564,Schuyler,5621,Republican,"Schuyler, NY",NY,85.3
+565,St. lawrence,24608,Republican,"St. lawrence, NY",NY,85.3
+566,Steuben,29474,Republican,"Steuben, NY",NY,85.3
+567,Suffolk,375821,Republican,"Suffolk, NY",NY,85.3
+568,Tompkins,33619,Democrat,"Tompkins, NY",NY,85.3
+569,Ulster,57970,Democrat,"Ulster, NY",NY,85.3
+570,Westchester,312371,Democrat,"Westchester, NY",NY,85.3
+571,Wyoming,13898,Republican,"Wyoming, NY",NY,85.3
+572,Yates,6208,Republican,"Yates, NY",NY,85.3
+573,Alcona,4848,Republican,"Alcona, MI",MI,85.0
+574,Alger,3014,Republican,"Alger, MI",MI,85.0
+575,Allegan,41392,Republican,"Allegan, MI",MI,85.0
+576,Alpena,10686,Republican,"Alpena, MI",MI,85.0
+577,Antrim,9748,Republican,"Antrim, MI",MI,85.0
+578,Arenac,5928,Republican,"Arenac, MI",MI,85.0
+579,Baraga,2512,Republican,"Baraga, MI",MI,85.0
+580,Barry,23471,Republican,"Barry, MI",MI,85.0
+581,Benzie,6601,Republican,"Benzie, MI",MI,85.0
+582,Berrien,43519,Republican,"Berrien, MI",MI,85.0
+583,Branch,14064,Republican,"Branch, MI",MI,85.0
+584,Calhoun,36221,Republican,"Calhoun, MI",MI,85.0
+585,Charlevoix,9841,Republican,"Charlevoix, MI",MI,85.0
+586,Cheboygan,10186,Republican,"Cheboygan, MI",MI,85.0
+587,Clare,10861,Republican,"Clare, MI",MI,85.0
+588,Clinton,25098,Republican,"Clinton, MI",MI,85.0
+589,Delta,13207,Republican,"Delta, MI",MI,85.0
+590,Dickinson,9617,Republican,"Dickinson, MI",MI,85.0
+591,Eaton,31798,Republican,"Eaton, MI",MI,85.0
+592,Emmet,12135,Republican,"Emmet, MI",MI,85.0
+593,Genesee,119390,Democrat,"Genesee, MI",MI,85.0
+594,Gladwin,9893,Republican,"Gladwin, MI",MI,85.0
+595,Gogebic,4600,Republican,"Gogebic, MI",MI,85.0
+596,Grand traverse,30502,Republican,"Grand traverse, MI",MI,85.0
+597,Gratiot,12102,Republican,"Gratiot, MI",MI,85.0
+598,Hillsdale,17037,Republican,"Hillsdale, MI",MI,85.0
+599,Houghton,10378,Republican,"Houghton, MI",MI,85.0
+600,Ingham,94212,Democrat,"Ingham, MI",MI,85.0
+601,Ionia,20657,Republican,"Ionia, MI",MI,85.0
+602,Iosco,9759,Republican,"Iosco, MI",MI,85.0
+603,Isabella,14815,Republican,"Isabella, MI",MI,85.0
+604,Kalamazoo,83686,Democrat,"Kalamazoo, MI",MI,85.0
+605,Kalkaska,7436,Republican,"Kalkaska, MI",MI,85.0
+606,Kent,187915,Democrat,"Kent, MI",MI,85.0
+607,Keweenaw,862,Republican,"Keweenaw, MI",MI,85.0
+608,Lapeer,35482,Republican,"Lapeer, MI",MI,85.0
+609,Leelanau,8795,Democrat,"Leelanau, MI",MI,85.0
+610,Lenawee,31541,Republican,"Lenawee, MI",MI,85.0
+611,Livingston,76982,Republican,"Livingston, MI",MI,85.0
+612,Luce,2109,Republican,"Luce, MI",MI,85.0
+613,Mackinac,4304,Republican,"Mackinac, MI",MI,85.0
+614,Macomb,263863,Republican,"Macomb, MI",MI,85.0
+615,Manistee,8321,Republican,"Manistee, MI",MI,85.0
+616,Marquette,20465,Democrat,"Marquette, MI",MI,85.0
+617,Mecosta,13267,Republican,"Mecosta, MI",MI,85.0
+618,Menominee,8117,Republican,"Menominee, MI",MI,85.0
+619,Missaukee,6648,Republican,"Missaukee, MI",MI,85.0
+620,Montcalm,21815,Republican,"Montcalm, MI",MI,85.0
+621,Montmorency,4171,Republican,"Montmorency, MI",MI,85.0
+622,Muskegon,45643,Democrat,"Muskegon, MI",MI,85.0
+623,Newaygo,18857,Republican,"Newaygo, MI",MI,85.0
+624,Oakland,434148,Democrat,"Oakland, MI",MI,85.0
+625,Oceana,8892,Republican,"Oceana, MI",MI,85.0
+626,Ogemaw,8253,Republican,"Ogemaw, MI",MI,85.0
+627,Ontonagon,2358,Republican,"Ontonagon, MI",MI,85.0
+628,Oscoda,3466,Republican,"Oscoda, MI",MI,85.0
+629,Ottawa,100913,Republican,"Ottawa, MI",MI,85.0
+630,Presque isle,5342,Republican,"Presque isle, MI",MI,85.0
+631,Roscommon,9670,Republican,"Roscommon, MI",MI,85.0
+632,Saginaw,51088,Democrat,"Saginaw, MI",MI,85.0
+633,Sanilac,16194,Republican,"Sanilac, MI",MI,85.0
+634,Schoolcraft,3090,Republican,"Schoolcraft, MI",MI,85.0
+635,Shiawassee,23149,Republican,"Shiawassee, MI",MI,85.0
+636,Tuscola,20297,Republican,"Tuscola, MI",MI,85.0
+637,Van buren,21591,Republican,"Van buren, MI",MI,85.0
+638,Washtenaw,157136,Democrat,"Washtenaw, MI",MI,85.0
+639,Wayne,597170,Democrat,"Wayne, MI",MI,85.0
+640,Wexford,12102,Republican,"Wexford, MI",MI,85.0
+641,Alcorn,12818,Republican,"Alcorn, MS",MS,75.9
+642,Amite,4503,Republican,"Amite, MS",MS,75.9
+643,Attala,5178,Republican,"Attala, MS",MS,75.9
+644,Bolivar,8904,Democrat,"Bolivar, MS",MS,75.9
+645,Coahoma,6020,Democrat,"Coahoma, MS",MS,75.9
+646,Copiah,6470,Democrat,"Copiah, MS",MS,75.9
+647,Desoto,46462,Republican,"Desoto, MS",MS,75.9
+648,Forrest,17290,Republican,"Forrest, MS",MS,75.9
+649,George,9713,Republican,"George, MS",MS,75.9
+650,Grenada,6081,Republican,"Grenada, MS",MS,75.9
+651,Harrison,46822,Republican,"Harrison, MS",MS,75.9
+652,Hinds,73550,Democrat,"Hinds, MS",MS,75.9
+653,Issaquena,355,Democrat,"Issaquena, MS",MS,75.9
+654,Itawamba,9438,Republican,"Itawamba, MS",MS,75.9
+655,Jones,21226,Republican,"Jones, MS",MS,75.9
+656,Kemper,2887,Democrat,"Kemper, MS",MS,75.9
+657,Lamar,20704,Republican,"Lamar, MS",MS,75.9
+658,Leake,5228,Republican,"Leake, MS",MS,75.9
+659,Leflore,7648,Democrat,"Leflore, MS",MS,75.9
+660,Neshoba,8320,Republican,"Neshoba, MS",MS,75.9
+661,Noxubee,4040,Democrat,"Noxubee, MS",MS,75.9
+662,Oktibbeha,10299,Democrat,"Oktibbeha, MS",MS,75.9
+663,Pearl river,19595,Republican,"Pearl river, MS",MS,75.9
+664,Pontotoc,11550,Republican,"Pontotoc, MS",MS,75.9
+665,Prentiss,8370,Republican,"Prentiss, MS",MS,75.9
+666,Quitman,2150,Democrat,"Quitman, MS",MS,75.9
+667,Rankin,50895,Republican,"Rankin, MS",MS,75.9
+668,Sharkey,1465,Democrat,"Sharkey, MS",MS,75.9
+669,Simpson,7635,Republican,"Simpson, MS",MS,75.9
+670,Sunflower,6781,Democrat,"Sunflower, MS",MS,75.9
+671,Tallahatchie,3105,Democrat,"Tallahatchie, MS",MS,75.9
+672,Tate,8707,Republican,"Tate, MS",MS,75.9
+673,Tippah,8054,Republican,"Tippah, MS",MS,75.9
+674,Tishomingo,7933,Republican,"Tishomingo, MS",MS,75.9
+675,Tunica,2580,Democrat,"Tunica, MS",MS,75.9
+676,Walthall,4220,Republican,"Walthall, MS",MS,75.9
+677,Wilkinson,2749,Democrat,"Wilkinson, MS",MS,75.9
+678,Yalobusha,3671,Republican,"Yalobusha, MS",MS,75.9
+679,Yazoo,5496,Democrat,"Yazoo, MS",MS,75.9
+680,Alfalfa,1978,Republican,"Alfalfa, OK",OK,82.8
+681,Atoka,4557,Republican,"Atoka, OK",OK,82.8
+682,Beckham,6767,Republican,"Beckham, OK",OK,82.8
+683,Canadian,43550,Republican,"Canadian, OK",OK,82.8
+684,Choctaw,4698,Republican,"Choctaw, OK",OK,82.8
+685,Cimarron,970,Republican,"Cimarron, OK",OK,82.8
+686,Cleveland,66677,Republican,"Cleveland, OK",OK,82.8
+687,Coal,2091,Republican,"Coal, OK",OK,82.8
+688,Comanche,20905,Republican,"Comanche, OK",OK,82.8
+689,Cotton,2117,Republican,"Cotton, OK",OK,82.8
+690,Craig,4686,Republican,"Craig, OK",OK,82.8
+691,Creek,23294,Republican,"Creek, OK",OK,82.8
+692,Custer,8060,Republican,"Custer, OK",OK,82.8
+693,Dewey,2124,Republican,"Dewey, OK",OK,82.8
+694,Garfield,16970,Republican,"Garfield, OK",OK,82.8
+695,Garvin,8878,Republican,"Garvin, OK",OK,82.8
+696,Grady,18538,Republican,"Grady, OK",OK,82.8
+697,Greer,1605,Republican,"Greer, OK",OK,82.8
+698,Harmon,747,Republican,"Harmon, OK",OK,82.8
+699,Haskell,4165,Republican,"Haskell, OK",OK,82.8
+700,Kay,12834,Republican,"Kay, OK",OK,82.8
+701,Kingfisher,5521,Republican,"Kingfisher, OK",OK,82.8
+702,Kiowa,2673,Republican,"Kiowa, OK",OK,82.8
+703,Latimer,3437,Republican,"Latimer, OK",OK,82.8
+704,Le flore,15213,Republican,"Le flore, OK",OK,82.8
+705,Love,3305,Republican,"Love, OK",OK,82.8
+706,Major,3084,Republican,"Major, OK",OK,82.8
+707,Mayes,12749,Republican,"Mayes, OK",OK,82.8
+708,Mcclain,15295,Republican,"Mcclain, OK",OK,82.8
+709,Mccurtain,9485,Republican,"Mccurtain, OK",OK,82.8
+710,Mcintosh,6172,Republican,"Mcintosh, OK",OK,82.8
+711,Muskogee,16526,Republican,"Muskogee, OK",OK,82.8
+712,Nowata,3610,Republican,"Nowata, OK",OK,82.8
+713,Okfuskee,3058,Republican,"Okfuskee, OK",OK,82.8
+714,Oklahoma,145050,Republican,"Oklahoma, OK",OK,82.8
+715,Okmulgee,9668,Republican,"Okmulgee, OK",OK,82.8
+716,Osage,14121,Republican,"Osage, OK",OK,82.8
+717,Pawnee,5267,Republican,"Pawnee, OK",OK,82.8
+718,Payne,17813,Republican,"Payne, OK",OK,82.8
+719,Pittsburg,13851,Republican,"Pittsburg, OK",OK,82.8
+720,Pottawatomie,20240,Republican,"Pottawatomie, OK",OK,82.8
+721,Pushmataha,4016,Republican,"Pushmataha, OK",OK,82.8
+722,Roger mills,1629,Republican,"Roger mills, OK",OK,82.8
+723,Rogers,34031,Republican,"Rogers, OK",OK,82.8
+724,Sequoyah,12113,Republican,"Sequoyah, OK",OK,82.8
+725,Stephens,15560,Republican,"Stephens, OK",OK,82.8
+726,Tillman,2076,Republican,"Tillman, OK",OK,82.8
+727,Tulsa,150574,Republican,"Tulsa, OK",OK,82.8
+728,Wagoner,26165,Republican,"Wagoner, OK",OK,82.8
+729,Washita,4086,Republican,"Washita, OK",OK,82.8
+730,Woods,2993,Republican,"Woods, OK",OK,82.8
+731,Woodward,6611,Republican,"Woodward, OK",OK,82.8
+732,Allamakee,4744,Republican,"Allamakee, IA",IA,83.3
+733,Appanoose,4522,Republican,"Appanoose, IA",IA,83.3
+734,Audubon,2299,Republican,"Audubon, IA",IA,83.3
+735,Black hawk,35647,Democrat,"Black hawk, IA",IA,83.3
+736,Bremer,8324,Republican,"Bremer, IA",IA,83.3
+737,Buena vista,5074,Republican,"Buena vista, IA",IA,83.3
+738,Cedar,6184,Republican,"Cedar, IA",IA,83.3
+739,Cerro gordo,12499,Republican,"Cerro gordo, IA",IA,83.3
+740,Chickasaw,4322,Republican,"Chickasaw, IA",IA,83.3
+741,Des moines,10642,Republican,"Des moines, IA",IA,83.3
+742,Dubuque,27358,Republican,"Dubuque, IA",IA,83.3
+743,Guthrie,4280,Republican,"Guthrie, IA",IA,83.3
+744,Ida,2885,Republican,"Ida, IA",IA,83.3
+745,Keokuk,3809,Republican,"Keokuk, IA",IA,83.3
+746,Kossuth,6288,Republican,"Kossuth, IA",IA,83.3
+747,Linn,70874,Democrat,"Linn, IA",IA,83.3
+748,Mahaska,8320,Republican,"Mahaska, IA",IA,83.3
+749,Mills,5616,Republican,"Mills, IA",IA,83.3
+750,Monona,3262,Republican,"Monona, IA",IA,83.3
+751,Muscatine,10865,Republican,"Muscatine, IA",IA,83.3
+752,O'brien,5871,Republican,"O'brien, IA",IA,83.3
+753,Palo alto,3378,Republican,"Palo alto, IA",IA,83.3
+754,Pottawattamie,26352,Republican,"Pottawattamie, IA",IA,83.3
+755,Poweshiek,5673,Republican,"Poweshiek, IA",IA,83.3
+756,Ringgold,1974,Republican,"Ringgold, IA",IA,83.3
+757,Sac,4069,Republican,"Sac, IA",IA,83.3
+758,Scott,46926,Democrat,"Scott, IA",IA,83.3
+759,Sioux,15775,Republican,"Sioux, IA",IA,83.3
+760,Story,29175,Democrat,"Story, IA",IA,83.3
+761,Tama,5325,Republican,"Tama, IA",IA,83.3
+762,Wapello,9536,Republican,"Wapello, IA",IA,83.3
+763,Winneshiek,6263,Republican,"Winneshiek, IA",IA,83.3
+764,Woodbury,25926,Republican,"Woodbury, IA",IA,83.3
+765,Allegany,20886,Republican,"Allegany, MD",MD,88.3
+766,Anne arundel,172823,Democrat,"Anne arundel, MD",MD,88.3
+767,Baltimore,258409,Democrat,"Baltimore, MD",MD,88.3
+768,Baltimore city,207260,Democrat,"Baltimore city, MD",MD,88.3
+769,Calvert,25346,Republican,"Calvert, MD",MD,88.3
+770,Caroline,10283,Republican,"Caroline, MD",MD,88.3
+771,Carroll,60218,Republican,"Carroll, MD",MD,88.3
+772,Cecil,29439,Republican,"Cecil, MD",MD,88.3
+773,Charles,62171,Democrat,"Charles, MD",MD,88.3
+774,Frederick,77675,Democrat,"Frederick, MD",MD,88.3
+775,Garrett,12002,Republican,"Garrett, MD",MD,88.3
+776,Harford,80930,Republican,"Harford, MD",MD,88.3
+777,Howard,129433,Democrat,"Howard, MD",MD,88.3
+778,Montgomery,419569,Democrat,"Montgomery, MD",MD,88.3
+779,Prince george's,379208,Democrat,"Prince george's, MD",MD,88.3
+780,Queen anne's,18741,Republican,"Queen anne's, MD",MD,88.3
+781,St mary's,30826,Republican,"St mary's, MD",MD,88.3
+782,Talbot,11062,Democrat,"Talbot, MD",MD,88.3
+783,Wicomico,22944,Republican,"Wicomico, MD",MD,88.3
+784,Allegheny,429065,Democrat,"Allegheny, PA",PA,84.7
+785,Armstrong,27489,Republican,"Armstrong, PA",PA,84.7
+786,Beaver,54759,Republican,"Beaver, PA",PA,84.7
+787,Berks,109736,Republican,"Berks, PA",PA,84.7
+788,Blair,45306,Republican,"Blair, PA",PA,84.7
+789,Bradford,21600,Republican,"Bradford, PA",PA,84.7
+790,Bucks,204712,Democrat,"Bucks, PA",PA,84.7
+791,Cambria,48085,Republican,"Cambria, PA",PA,84.7
+792,Carbon,21984,Republican,"Carbon, PA",PA,84.7
+793,Centre,40055,Democrat,"Centre, PA",PA,84.7
+794,Chester,182372,Democrat,"Chester, PA",PA,84.7
+795,Clarion,14578,Republican,"Clarion, PA",PA,84.7
+796,Clearfield,29203,Republican,"Clearfield, PA",PA,84.7
+797,Crawford,28559,Republican,"Crawford, PA",PA,84.7
+798,Dauphin,78983,Democrat,"Dauphin, PA",PA,84.7
+799,Delaware,206423,Democrat,"Delaware, PA",PA,84.7
+800,Elk,12140,Republican,"Elk, PA",PA,84.7
+801,Huntingdon,17061,Republican,"Huntingdon, PA",PA,84.7
+802,Indiana,28089,Republican,"Indiana, PA",PA,84.7
+803,Juniata,9649,Republican,"Juniata, PA",PA,84.7
+804,Lackawanna,61991,Democrat,"Lackawanna, PA",PA,84.7
+805,Lancaster,160209,Republican,"Lancaster, PA",PA,84.7
+806,Lawrence,29597,Republican,"Lawrence, PA",PA,84.7
+807,Lebanon,46731,Republican,"Lebanon, PA",PA,84.7
+808,Lehigh,98288,Democrat,"Lehigh, PA",PA,84.7
+809,Luzerne,86929,Republican,"Luzerne, PA",PA,84.7
+810,Lycoming,41462,Republican,"Lycoming, PA",PA,84.7
+811,Mckean,14083,Republican,"Mckean, PA",PA,84.7
+812,Mifflin,16670,Republican,"Mifflin, PA",PA,84.7
+813,Montour,5844,Republican,"Montour, PA",PA,84.7
+814,Northampton,85087,Democrat,"Northampton, PA",PA,84.7
+815,Northumberland,28952,Republican,"Northumberland, PA",PA,84.7
+816,Perry,18293,Republican,"Perry, PA",PA,84.7
+817,Philadelphia,603790,Democrat,"Philadelphia, PA",PA,84.7
+818,Schuylkill,48871,Republican,"Schuylkill, PA",PA,84.7
+819,Snyder,13983,Republican,"Snyder, PA",PA,84.7
+820,Susquehanna,15207,Republican,"Susquehanna, PA",PA,84.7
+821,Tioga,15742,Republican,"Tioga, PA",PA,84.7
+822,Venango,18569,Republican,"Venango, PA",PA,84.7
+823,Westmoreland,130218,Republican,"Westmoreland, PA",PA,84.7
+824,York,146733,Republican,"York, PA",PA,84.7
+825,Allen,92083,Republican,"Allen, IN",IN,83.1
+826,Bartholomew,22410,Republican,"Bartholomew, IN",IN,83.1
+827,Blackford,3841,Republican,"Blackford, IN",IN,83.1
+828,Dearborn,19528,Republican,"Dearborn, IN",IN,83.1
+829,Decatur,9575,Republican,"Decatur, IN",IN,83.1
+830,Dubois,15033,Republican,"Dubois, IN",IN,83.1
+831,Elkhart,46972,Republican,"Elkhart, IN",IN,83.1
+832,Fountain,6154,Republican,"Fountain, IN",IN,83.1
+833,Hancock,28996,Republican,"Hancock, IN",IN,83.1
+834,Hendricks,53802,Republican,"Hendricks, IN",IN,83.1
+835,Huntington,13147,Republican,"Huntington, IN",IN,83.1
+836,Jay,6361,Republican,"Jay, IN",IN,83.1
+837,Jennings,9490,Republican,"Jennings, IN",IN,83.1
+838,Kosciusko,26499,Republican,"Kosciusko, IN",IN,83.1
+839,Lagrange,8110,Republican,"Lagrange, IN",IN,83.1
+840,Laporte,25997,Republican,"Laporte, IN",IN,83.1
+841,Marion,247772,Democrat,"Marion, IN",IN,83.1
+842,Noble,14195,Republican,"Noble, IN",IN,83.1
+843,Owen,7286,Republican,"Owen, IN",IN,83.1
+844,Parke,5400,Republican,"Parke, IN",IN,83.1
+845,Porter,45008,Republican,"Porter, IN",IN,83.1
+846,Posey,9206,Republican,"Posey, IN",IN,83.1
+847,Ripley,11261,Republican,"Ripley, IN",IN,83.1
+848,Rush,6035,Republican,"Rush, IN",IN,83.1
+849,St. joseph,59896,Democrat,"St. joseph, IN",IN,83.1
+850,Starke,7466,Republican,"Starke, IN",IN,83.1
+851,Switzerland,3133,Republican,"Switzerland, IN",IN,83.1
+852,Tippecanoe,35017,Democrat,"Tippecanoe, IN",IN,83.1
+853,Vanderburgh,41844,Republican,"Vanderburgh, IN",IN,83.1
+854,Vermillion,5184,Republican,"Vermillion, IN",IN,83.1
+855,Vigo,24545,Republican,"Vigo, IN",IN,83.1
+856,Wabash,10762,Republican,"Wabash, IN",IN,83.1
+857,Warrick,21326,Republican,"Warrick, IN",IN,83.1
+858,Wells,10855,Republican,"Wells, IN",IN,83.1
+859,Whitley,12862,Republican,"Whitley, IN",IN,83.1
+860,Andrew,7255,Republican,"Andrew, MO",MO,83.9
+861,Audrain,7732,Republican,"Audrain, MO",MO,83.9
+862,Bates,6597,Republican,"Bates, MO",MO,83.9
+863,Bollinger,5167,Republican,"Bollinger, MO",MO,83.9
+864,Boone,50064,Democrat,"Boone, MO",MO,83.9
+865,Buchanan,22450,Republican,"Buchanan, MO",MO,83.9
+866,Callaway,14815,Republican,"Callaway, MO",MO,83.9
+867,Cape girardeau,28907,Republican,"Cape girardeau, MO",MO,83.9
+868,Chariton,3111,Republican,"Chariton, MO",MO,83.9
+869,Christian,34920,Republican,"Christian, MO",MO,83.9
+870,Cole,26086,Republican,"Cole, MO",MO,83.9
+871,Cooper,6272,Republican,"Cooper, MO",MO,83.9
+872,Dent,5987,Republican,"Dent, MO",MO,83.9
+873,Dunklin,8135,Republican,"Dunklin, MO",MO,83.9
+874,Gasconade,6222,Republican,"Gasconade, MO",MO,83.9
+875,Gentry,2581,Republican,"Gentry, MO",MO,83.9
+876,Greene,83630,Republican,"Greene, MO",MO,83.9
+877,Hickory,3966,Republican,"Hickory, MO",MO,83.9
+878,Howell,15181,Republican,"Howell, MO",MO,83.9
+879,Jackson,100142,Republican,"Jackson, MO",MO,83.9
+880,Jasper,37728,Republican,"Jasper, MO",MO,83.9
+881,Kansas city,107660,Democrat,"Kansas city, MO",MO,83.9
+882,Laclede,13762,Republican,"Laclede, MO",MO,83.9
+883,Maries,3892,Republican,"Maries, MO",MO,83.9
+884,Mcdonald,7465,Republican,"Mcdonald, MO",MO,83.9
+885,Moniteau,5744,Republican,"Moniteau, MO",MO,83.9
+886,New madrid,5447,Republican,"New madrid, MO",MO,83.9
+887,Nodaway,6865,Republican,"Nodaway, MO",MO,83.9
+888,Oregon,3847,Republican,"Oregon, MO",MO,83.9
+889,Ozark,4064,Republican,"Ozark, MO",MO,83.9
+890,Pemiscot,4120,Republican,"Pemiscot, MO",MO,83.9
+891,Pettis,13854,Republican,"Pettis, MO",MO,83.9
+892,Phelps,13480,Republican,"Phelps, MO",MO,83.9
+893,Platte,28917,Republican,"Platte, MO",MO,83.9
+894,Ralls,4396,Republican,"Ralls, MO",MO,83.9
+895,Ray,8345,Republican,"Ray, MO",MO,83.9
+896,Reynolds,2733,Republican,"Reynolds, MO",MO,83.9
+897,Shannon,3165,Republican,"Shannon, MO",MO,83.9
+898,St. charles,128389,Republican,"St. charles, MO",MO,83.9
+899,St. francois,20511,Republican,"St. francois, MO",MO,83.9
+900,St. louis city,110089,Democrat,"St. louis city, MO",MO,83.9
+901,St. louis county,328151,Democrat,"St. louis county, MO",MO,83.9
+902,Ste. genevieve,6630,Republican,"Ste. genevieve, MO",MO,83.9
+903,Stoddard,11484,Republican,"Stoddard, MO",MO,83.9
+904,Stone,14800,Republican,"Stone, MO",MO,83.9
+905,Taney,20508,Republican,"Taney, MO",MO,83.9
+906,Texas,9478,Republican,"Texas, MO",MO,83.9
+907,Webster,14880,Republican,"Webster, MO",MO,83.9
+908,Andrews,4943,Republican,"Andrews, TX",TX,85.5
+909,Angelina,25076,Republican,"Angelina, TX",TX,85.5
+910,Aransas,9239,Republican,"Aransas, TX",TX,85.5
+911,Archer,4300,Republican,"Archer, TX",TX,85.5
+912,Atascosa,12039,Republican,"Atascosa, TX",TX,85.5
+913,Austin,11447,Republican,"Austin, TX",TX,85.5
+914,Bailey,1434,Republican,"Bailey, TX",TX,85.5
+915,Bandera,10057,Republican,"Bandera, TX",TX,85.5
+916,Bastrop,20516,Republican,"Bastrop, TX",TX,85.5
+917,Baylor,1494,Republican,"Baylor, TX",TX,85.5
+918,Bee,6006,Republican,"Bee, TX",TX,85.5
+919,Bell,67893,Republican,"Bell, TX",TX,85.5
+920,Bexar,448452,Democrat,"Bexar, TX",TX,85.5
+921,Blanco,5443,Republican,"Blanco, TX",TX,85.5
+922,Borden,397,Republican,"Borden, TX",TX,85.5
+923,Bosque,7469,Republican,"Bosque, TX",TX,85.5
+924,Bowie,27116,Republican,"Bowie, TX",TX,85.5
+925,Brazoria,90433,Republican,"Brazoria, TX",TX,85.5
+926,Brazos,47530,Republican,"Brazos, TX",TX,85.5
+927,Brewster,2461,Republican,"Brewster, TX",TX,85.5
+928,Briscoe,639,Republican,"Briscoe, TX",TX,85.5
+929,Burleson,6743,Republican,"Burleson, TX",TX,85.5
+930,Burnet,18767,Republican,"Burnet, TX",TX,85.5
+931,Callahan,6012,Republican,"Callahan, TX",TX,85.5
+932,Cameron,64063,Democrat,"Cameron, TX",TX,85.5
+933,Camp,3626,Republican,"Camp, TX",TX,85.5
+934,Carson,2779,Republican,"Carson, TX",TX,85.5
+935,Castro,1602,Republican,"Castro, TX",TX,85.5
+936,Chambers,17353,Republican,"Chambers, TX",TX,85.5
+937,Childress,1943,Republican,"Childress, TX",TX,85.5
+938,Cochran,809,Republican,"Cochran, TX",TX,85.5
+939,Coke,1586,Republican,"Coke, TX",TX,85.5
+940,Coleman,3641,Republican,"Coleman, TX",TX,85.5
+941,Collin,252318,Republican,"Collin, TX",TX,85.5
+942,Collingsworth,1048,Republican,"Collingsworth, TX",TX,85.5
+943,Colorado,7472,Republican,"Colorado, TX",TX,85.5
+944,Comal,62740,Republican,"Comal, TX",TX,85.5
+945,Concho,1058,Republican,"Concho, TX",TX,85.5
+946,Cooke,15596,Republican,"Cooke, TX",TX,85.5
+947,Coryell,15438,Republican,"Coryell, TX",TX,85.5
+948,Cottle,540,Republican,"Cottle, TX",TX,85.5
+949,Crane,1247,Republican,"Crane, TX",TX,85.5
+950,Crosby,1396,Republican,"Crosby, TX",TX,85.5
+951,Culberson,438,Democrat,"Culberson, TX",TX,85.5
+952,Dallam,1389,Republican,"Dallam, TX",TX,85.5
+953,Dallas,598576,Democrat,"Dallas, TX",TX,85.5
+954,Deaf smith,3294,Republican,"Deaf smith, TX",TX,85.5
+955,Denton,222480,Republican,"Denton, TX",TX,85.5
+956,Dewitt,6567,Republican,"Dewitt, TX",TX,85.5
+957,Dickens,853,Republican,"Dickens, TX",TX,85.5
+958,Dimmit,2264,Democrat,"Dimmit, TX",TX,85.5
+959,Donley,1438,Republican,"Donley, TX",TX,85.5
+960,Eastland,7237,Republican,"Eastland, TX",TX,85.5
+961,Ector,32697,Republican,"Ector, TX",TX,85.5
+962,Ellis,56717,Republican,"Ellis, TX",TX,85.5
+963,Erath,13684,Republican,"Erath, TX",TX,85.5
+964,Falls,4177,Republican,"Falls, TX",TX,85.5
+965,Fannin,12171,Republican,"Fannin, TX",TX,85.5
+966,Fisher,1448,Republican,"Fisher, TX",TX,85.5
+967,Foard,445,Republican,"Foard, TX",TX,85.5
+968,Fort bend,195552,Democrat,"Fort bend, TX",TX,85.5
+969,Freestone,6991,Republican,"Freestone, TX",TX,85.5
+970,Frio,2823,Republican,"Frio, TX",TX,85.5
+971,Gaines,5355,Republican,"Gaines, TX",TX,85.5
+972,Galveston,93911,Republican,"Galveston, TX",TX,85.5
+973,Garza,1413,Republican,"Garza, TX",TX,85.5
+974,Gillespie,12514,Republican,"Gillespie, TX",TX,85.5
+975,Glasscock,611,Republican,"Glasscock, TX",TX,85.5
+976,Goliad,3085,Republican,"Goliad, TX",TX,85.5
+977,Gonzales,5627,Republican,"Gonzales, TX",TX,85.5
+978,Gray,6840,Republican,"Gray, TX",TX,85.5
+979,Grayson,44163,Republican,"Grayson, TX",TX,85.5
+980,Gregg,32493,Republican,"Gregg, TX",TX,85.5
+981,Grimes,9432,Republican,"Grimes, TX",TX,85.5
+982,Guadalupe,47553,Republican,"Guadalupe, TX",TX,85.5
+983,Hale,7177,Republican,"Hale, TX",TX,85.5
+984,Hansford,1849,Republican,"Hansford, TX",TX,85.5
+985,Harris,918193,Democrat,"Harris, TX",TX,85.5
+986,Hartley,1868,Republican,"Hartley, TX",TX,85.5
+987,Hays,59524,Democrat,"Hays, TX",TX,85.5
+988,Hemphill,1486,Republican,"Hemphill, TX",TX,85.5
+989,Hidalgo,128199,Democrat,"Hidalgo, TX",TX,85.5
+990,Hill,11926,Republican,"Hill, TX",TX,85.5
+991,Hockley,6536,Republican,"Hockley, TX",TX,85.5
+992,Hood,26496,Republican,"Hood, TX",TX,85.5
+993,Hudspeth,779,Republican,"Hudspeth, TX",TX,85.5
+994,Hunt,29163,Republican,"Hunt, TX",TX,85.5
+995,Hutchinson,7681,Republican,"Hutchinson, TX",TX,85.5
+996,Irion,759,Republican,"Irion, TX",TX,85.5
+997,Jack,3418,Republican,"Jack, TX",TX,85.5
+998,Jim hogg,1197,Democrat,"Jim hogg, TX",TX,85.5
+999,Jim wells,7453,Republican,"Jim wells, TX",TX,85.5
+1000,Karnes,3968,Republican,"Karnes, TX",TX,85.5
+1001,Kaufman,37624,Republican,"Kaufman, TX",TX,85.5
+1002,Kenedy,127,Republican,"Kenedy, TX",TX,85.5
+1003,Kerr,20879,Republican,"Kerr, TX",TX,85.5
+1004,Kimble,1987,Republican,"Kimble, TX",TX,85.5
+1005,Kinney,1144,Republican,"Kinney, TX",TX,85.5
+1006,Kleberg,5504,Republican,"Kleberg, TX",TX,85.5
+1007,Lamb,3521,Republican,"Lamb, TX",TX,85.5
+1008,Lampasas,8086,Republican,"Lampasas, TX",TX,85.5
+1009,Lavaca,8804,Republican,"Lavaca, TX",TX,85.5
+1010,Liberty,23302,Republican,"Liberty, TX",TX,85.5
+1011,Lipscomb,1205,Republican,"Lipscomb, TX",TX,85.5
+1012,Live oak,4199,Republican,"Live oak, TX",TX,85.5
+1013,Llano,10079,Republican,"Llano, TX",TX,85.5
+1014,Loving,60,Republican,"Loving, TX",TX,85.5
+1015,Lubbock,78861,Republican,"Lubbock, TX",TX,85.5
+1016,Lynn,1853,Republican,"Lynn, TX",TX,85.5
+1017,Matagorda,9845,Republican,"Matagorda, TX",TX,85.5
+1018,Maverick,8332,Democrat,"Maverick, TX",TX,85.5
+1019,Mcculloch,2904,Republican,"Mcculloch, TX",TX,85.5
+1020,Mclennan,59543,Republican,"Mclennan, TX",TX,85.5
+1021,Mcmullen,460,Republican,"Mcmullen, TX",TX,85.5
+1022,Midland,45624,Republican,"Midland, TX",TX,85.5
+1023,Milam,7984,Republican,"Milam, TX",TX,85.5
+1024,Montague,8615,Republican,"Montague, TX",TX,85.5
+1025,Motley,604,Republican,"Motley, TX",TX,85.5
+1026,Nacogdoches,17378,Republican,"Nacogdoches, TX",TX,85.5
+1027,Navarro,13800,Republican,"Navarro, TX",TX,85.5
+1028,Nolan,4131,Republican,"Nolan, TX",TX,85.5
+1029,Nueces,64617,Republican,"Nueces, TX",TX,85.5
+1030,Ochiltree,2812,Republican,"Ochiltree, TX",TX,85.5
+1031,Palo pinto,10179,Republican,"Palo pinto, TX",TX,85.5
+1032,Panola,9326,Republican,"Panola, TX",TX,85.5
+1033,Parker,62045,Republican,"Parker, TX",TX,85.5
+1034,Parmer,2135,Republican,"Parmer, TX",TX,85.5
+1035,Pecos,3215,Republican,"Pecos, TX",TX,85.5
+1036,Potter,22820,Republican,"Potter, TX",TX,85.5
+1037,Presidio,1463,Democrat,"Presidio, TX",TX,85.5
+1038,Rains,5155,Republican,"Rains, TX",TX,85.5
+1039,Randall,50796,Republican,"Randall, TX",TX,85.5
+1040,Reagan,942,Republican,"Reagan, TX",TX,85.5
+1041,Real,1643,Republican,"Real, TX",TX,85.5
+1042,Red river,4517,Republican,"Red river, TX",TX,85.5
+1043,Reeves,2254,Republican,"Reeves, TX",TX,85.5
+1044,Refugio,2210,Republican,"Refugio, TX",TX,85.5
+1045,Rockwall,36726,Republican,"Rockwall, TX",TX,85.5
+1046,Runnels,3807,Republican,"Runnels, TX",TX,85.5
+1047,Rusk,16534,Republican,"Rusk, TX",TX,85.5
+1048,San augustine,3007,Republican,"San augustine, TX",TX,85.5
+1049,San jacinto,10161,Republican,"San jacinto, TX",TX,85.5
+1050,San patricio,16516,Republican,"San patricio, TX",TX,85.5
+1051,San saba,2308,Republican,"San saba, TX",TX,85.5
+1052,Schleicher,940,Republican,"Schleicher, TX",TX,85.5
+1053,Scurry,4983,Republican,"Scurry, TX",TX,85.5
+1054,Shackelford,1484,Republican,"Shackelford, TX",TX,85.5
+1055,Smith,69080,Republican,"Smith, TX",TX,85.5
+1056,Somervell,4105,Republican,"Somervell, TX",TX,85.5
+1057,Starr,9123,Democrat,"Starr, TX",TX,85.5
+1058,Sterling,584,Republican,"Sterling, TX",TX,85.5
+1059,Stonewall,615,Republican,"Stonewall, TX",TX,85.5
+1060,Sutton,1222,Republican,"Sutton, TX",TX,85.5
+1061,Swisher,1845,Republican,"Swisher, TX",TX,85.5
+1062,Tarrant,411567,Democrat,"Tarrant, TX",TX,85.5
+1063,Taylor,39547,Republican,"Taylor, TX",TX,85.5
+1064,Terry,2812,Republican,"Terry, TX",TX,85.5
+1065,Throckmorton,806,Republican,"Throckmorton, TX",TX,85.5
+1066,Titus,7570,Republican,"Titus, TX",TX,85.5
+1067,Tom green,32313,Republican,"Tom green, TX",TX,85.5
+1068,Travis,435860,Democrat,"Travis, TX",TX,85.5
+1069,Trinity,5579,Republican,"Trinity, TX",TX,85.5
+1070,Tyler,8194,Republican,"Tyler, TX",TX,85.5
+1071,Upshur,15809,Republican,"Upshur, TX",TX,85.5
+1072,Upton,1178,Republican,"Upton, TX",TX,85.5
+1073,Uvalde,6174,Republican,"Uvalde, TX",TX,85.5
+1074,Val verde,8284,Republican,"Val verde, TX",TX,85.5
+1075,Van zandt,22270,Republican,"Van zandt, TX",TX,85.5
+1076,Victoria,23358,Republican,"Victoria, TX",TX,85.5
+1077,Waller,14260,Republican,"Waller, TX",TX,85.5
+1078,Webb,41820,Democrat,"Webb, TX",TX,85.5
+1079,Wharton,11926,Republican,"Wharton, TX",TX,85.5
+1080,Wheeler,2159,Republican,"Wheeler, TX",TX,85.5
+1081,Wichita,32069,Republican,"Wichita, TX",TX,85.5
+1082,Wilbarger,3524,Republican,"Wilbarger, TX",TX,85.5
+1083,Willacy,3108,Democrat,"Willacy, TX",TX,85.5
+1084,Williamson,143795,Democrat,"Williamson, TX",TX,85.5
+1085,Winkler,1753,Republican,"Winkler, TX",TX,85.5
+1086,Wise,27032,Republican,"Wise, TX",TX,85.5
+1087,Yoakum,2174,Republican,"Yoakum, TX",TX,85.5
+1088,Young,7110,Republican,"Young, TX",TX,85.5
+1089,Zapata,2033,Republican,"Zapata, TX",TX,85.5
+1090,Zavala,2864,Democrat,"Zavala, TX",TX,85.5
+1091,Androscoggin,29268,Republican,"Androscoggin, ME",ME,84.2
+1092,Aroostook,21080,Republican,"Aroostook, ME",ME,84.2
+1093,Cumberland,128759,Democrat,"Cumberland, ME",ME,84.2
+1094,Kennebec,34902,Democrat,"Kennebec, ME",ME,84.2
+1095,Oxford,17698,Republican,"Oxford, ME",ME,84.2
+1096,Penobscot,44825,Republican,"Penobscot, ME",ME,84.2
+1097,Piscataquis,6143,Republican,"Piscataquis, ME",ME,84.2
+1098,Sagadahoc,13528,Democrat,"Sagadahoc, ME",ME,84.2
+1099,Waldo,12345,Democrat,"Waldo, ME",ME,84.2
+1100,Antelope,3093,Republican,"Antelope, NE",NE,86.3
+1101,Arthur,260,Republican,"Arthur, NE",NE,86.3
+1102,Banner,362,Republican,"Banner, NE",NE,86.3
+1103,Box butte,4002,Republican,"Box butte, NE",NE,86.3
+1104,Buffalo,16640,Republican,"Buffalo, NE",NE,86.3
+1105,Burt,2580,Republican,"Burt, NE",NE,86.3
+1106,Chase,1740,Republican,"Chase, NE",NE,86.3
+1107,Cherry,2844,Republican,"Cherry, NE",NE,86.3
+1108,Cheyenne,3813,Republican,"Cheyenne, NE",NE,86.3
+1109,Cuming,3507,Republican,"Cuming, NE",NE,86.3
+1110,Dawes,2931,Republican,"Dawes, NE",NE,86.3
+1111,Dixon,2335,Republican,"Dixon, NE",NE,86.3
+1112,Douglas,150350,Democrat,"Douglas, NE",NE,86.3
+1113,Dundy,883,Republican,"Dundy, NE",NE,86.3
+1114,Frontier,1229,Republican,"Frontier, NE",NE,86.3
+1115,Furnas,2163,Republican,"Furnas, NE",NE,86.3
+1116,Gage,7445,Republican,"Gage, NE",NE,86.3
+1117,Garden,1016,Republican,"Garden, NE",NE,86.3
+1118,Gosper,893,Republican,"Gosper, NE",NE,86.3
+1119,Greeley,1016,Republican,"Greeley, NE",NE,86.3
+1120,Hayes,494,Republican,"Hayes, NE",NE,86.3
+1121,Hitchcock,1264,Republican,"Hitchcock, NE",NE,86.3
+1122,Holt,4769,Republican,"Holt, NE",NE,86.3
+1123,Hooker,376,Republican,"Hooker, NE",NE,86.3
+1124,Kearney,2822,Republican,"Kearney, NE",NE,86.3
+1125,Keith,3544,Republican,"Keith, NE",NE,86.3
+1126,Keya paha,476,Republican,"Keya paha, NE",NE,86.3
+1127,Kimball,1563,Republican,"Kimball, NE",NE,86.3
+1128,Loup,370,Republican,"Loup, NE",NE,86.3
+1129,Merrick,3419,Republican,"Merrick, NE",NE,86.3
+1130,Morrill,2113,Republican,"Morrill, NE",NE,86.3
+1131,Nance,1437,Republican,"Nance, NE",NE,86.3
+1132,Nuckolls,1857,Republican,"Nuckolls, NE",NE,86.3
+1133,Otoe,5649,Republican,"Otoe, NE",NE,86.3
+1134,Red willow,4525,Republican,"Red willow, NE",NE,86.3
+1135,Richardson,3073,Republican,"Richardson, NE",NE,86.3
+1136,Sarpy,51979,Republican,"Sarpy, NE",NE,86.3
+1137,Saunders,9108,Republican,"Saunders, NE",NE,86.3
+1138,Scotts bluff,10952,Republican,"Scotts bluff, NE",NE,86.3
+1139,Seward,6490,Republican,"Seward, NE",NE,86.3
+1140,Stanton,2561,Republican,"Stanton, NE",NE,86.3
+1141,Thayer,2308,Republican,"Thayer, NE",NE,86.3
+1142,Apache,23293,Democrat,"Apache, AZ",AZ,86.8
+1143,Cochise,35557,Republican,"Cochise, AZ",AZ,86.8
+1144,Coconino,44698,Democrat,"Coconino, AZ",AZ,86.8
+1145,Gila,18377,Republican,"Gila, AZ",AZ,86.8
+1146,Graham,10749,Republican,"Graham, AZ",AZ,86.8
+1147,Greenlee,2433,Republican,"Greenlee, AZ",AZ,86.8
+1148,La paz,5129,Republican,"La paz, AZ",AZ,86.8
+1149,Maricopa,1040774,Democrat,"Maricopa, AZ",AZ,86.8
+1150,Mohave,78535,Republican,"Mohave, AZ",AZ,86.8
+1151,Navajo,27657,Republican,"Navajo, AZ",AZ,86.8
+1152,Pima,304981,Democrat,"Pima, AZ",AZ,86.8
+1153,Pinal,107077,Republican,"Pinal, AZ",AZ,86.8
+1154,Yavapai,91527,Republican,"Yavapai, AZ",AZ,86.8
+1155,Yuma,36534,Republican,"Yuma, AZ",AZ,86.8
+1156,Appling,6526,Republican,"Appling, GA",GA,84.2
+1157,Atkinson,2300,Republican,"Atkinson, GA",GA,84.2
+1158,Bacon,4018,Republican,"Bacon, GA",GA,84.2
+1159,Banks,7795,Republican,"Banks, GA",GA,84.2
+1160,Barrow,26804,Republican,"Barrow, GA",GA,84.2
+1161,Bartow,37674,Republican,"Bartow, GA",GA,84.2
+1162,Ben hill,4110,Republican,"Ben hill, GA",GA,84.2
+1163,Bibb,43468,Democrat,"Bibb, GA",GA,84.2
+1164,Bleckley,4328,Republican,"Bleckley, GA",GA,84.2
+1165,Brantley,6991,Republican,"Brantley, GA",GA,84.2
+1166,Brooks,4260,Republican,"Brooks, GA",GA,84.2
+1167,Bryan,14244,Republican,"Bryan, GA",GA,84.2
+1168,Bulloch,18386,Republican,"Bulloch, GA",GA,84.2
+1169,Butts,8406,Republican,"Butts, GA",GA,84.2
+1170,Candler,3133,Republican,"Candler, GA",GA,84.2
+1171,Catoosa,25167,Republican,"Catoosa, GA",GA,84.2
+1172,Charlton,3419,Republican,"Charlton, GA",GA,84.2
+1173,Chatham,78254,Democrat,"Chatham, GA",GA,84.2
+1174,Chattahoochee,880,Republican,"Chattahoochee, GA",GA,84.2
+1175,Chattooga,8064,Republican,"Chattooga, GA",GA,84.2
+1176,Cherokee,99587,Republican,"Cherokee, GA",GA,84.2
+1177,Clarke,36048,Democrat,"Clarke, GA",GA,84.2
+1178,Clayton,95476,Democrat,"Clayton, GA",GA,84.2
+1179,Clinch,2105,Republican,"Clinch, GA",GA,84.2
+1180,Cobb,221846,Democrat,"Cobb, GA",GA,84.2
+1181,Colquitt,11777,Republican,"Colquitt, GA",GA,84.2
+1182,Columbia,50013,Republican,"Columbia, GA",GA,84.2
+1183,Coweta,51501,Republican,"Coweta, GA",GA,84.2
+1184,Crisp,4987,Republican,"Crisp, GA",GA,84.2
+1185,Dade,6066,Republican,"Dade, GA",GA,84.2
+1186,Dawson,13398,Republican,"Dawson, GA",GA,84.2
+1187,Dekalb,308227,Democrat,"Dekalb, GA",GA,84.2
+1188,Dooly,2159,Republican,"Dooly, GA",GA,84.2
+1189,Dougherty,24577,Democrat,"Dougherty, GA",GA,84.2
+1190,Early,2722,Republican,"Early, GA",GA,84.2
+1191,Echols,1256,Republican,"Echols, GA",GA,84.2
+1192,Effingham,23358,Republican,"Effingham, GA",GA,84.2
+1193,Emanuel,6551,Republican,"Emanuel, GA",GA,84.2
+1194,Evans,2888,Republican,"Evans, GA",GA,84.2
+1195,Floyd,29123,Republican,"Floyd, GA",GA,84.2
+1196,Fulton,381144,Democrat,"Fulton, GA",GA,84.2
+1197,Gilmer,13429,Republican,"Gilmer, GA",GA,84.2
+1198,Glascock,1403,Republican,"Glascock, GA",GA,84.2
+1199,Glynn,25616,Republican,"Glynn, GA",GA,84.2
+1200,Gordon,19405,Republican,"Gordon, GA",GA,84.2
+1201,Gwinnett,241827,Democrat,"Gwinnett, GA",GA,84.2
+1202,Habersham,16637,Republican,"Habersham, GA",GA,84.2
+1203,Hall,64170,Republican,"Hall, GA",GA,84.2
+1204,Haralson,12331,Republican,"Haralson, GA",GA,84.2
+1205,Hart,9464,Republican,"Hart, GA",GA,84.2
+1206,Heard,4516,Republican,"Heard, GA",GA,84.2
+1207,Henry,73276,Democrat,"Henry, GA",GA,84.2
+1208,Houston,41534,Republican,"Houston, GA",GA,84.2
+1209,Irwin,3134,Republican,"Irwin, GA",GA,84.2
+1210,Jeff davis,4695,Republican,"Jeff davis, GA",GA,84.2
+1211,Jenkins,2161,Republican,"Jenkins, GA",GA,84.2
+1212,Lanier,2509,Republican,"Lanier, GA",GA,84.2
+1213,Long,3528,Republican,"Long, GA",GA,84.2
+1214,Lowndes,25691,Republican,"Lowndes, GA",GA,84.2
+1215,Lumpkin,12163,Republican,"Lumpkin, GA",GA,84.2
+1216,Mcduffie,6169,Republican,"Mcduffie, GA",GA,84.2
+1217,Meriwether,6524,Republican,"Meriwether, GA",GA,84.2
+1218,Murray,12943,Republican,"Murray, GA",GA,84.2
+1219,Muscogee,49529,Democrat,"Muscogee, GA",GA,84.2
+1220,Newton,29794,Democrat,"Newton, GA",GA,84.2
+1221,Oglethorpe,5593,Republican,"Oglethorpe, GA",GA,84.2
+1222,Paulding,54525,Republican,"Paulding, GA",GA,84.2
+1223,Peach,6502,Republican,"Peach, GA",GA,84.2
+1224,Rabun,7474,Republican,"Rabun, GA",GA,84.2
+1225,Rockdale,31244,Democrat,"Rockdale, GA",GA,84.2
+1226,Schley,1800,Republican,"Schley, GA",GA,84.2
+1227,Screven,3916,Republican,"Screven, GA",GA,84.2
+1228,Spalding,18057,Republican,"Spalding, GA",GA,84.2
+1229,Taliaferro,561,Democrat,"Taliaferro, GA",GA,84.2
+1230,Tattnall,6053,Republican,"Tattnall, GA",GA,84.2
+1231,Telfair,2825,Republican,"Telfair, GA",GA,84.2
+1232,Terrell,2376,Democrat,"Terrell, GA",GA,84.2
+1233,Thomas,12954,Republican,"Thomas, GA",GA,84.2
+1234,Tift,10784,Republican,"Tift, GA",GA,84.2
+1235,Toombs,7872,Republican,"Toombs, GA",GA,84.2
+1236,Towns,6384,Republican,"Towns, GA",GA,84.2
+1237,Treutlen,2101,Republican,"Treutlen, GA",GA,84.2
+1238,Troup,18143,Republican,"Troup, GA",GA,84.2
+1239,Twiggs,2370,Republican,"Twiggs, GA",GA,84.2
+1240,Upson,8608,Republican,"Upson, GA",GA,84.2
+1241,Walton,37842,Republican,"Walton, GA",GA,84.2
+1242,Ware,9865,Republican,"Ware, GA",GA,84.2
+1243,Whitfield,25636,Republican,"Whitfield, GA",GA,84.2
+1244,Worth,6830,Republican,"Worth, GA",GA,84.2
+1245,Arkansas,4304,Republican,"Arkansas, AR",AR,79.1
+1246,Ashley,5548,Republican,"Ashley, AR",AR,79.1
+1247,Baxter,15836,Republican,"Baxter, AR",AR,79.1
+1248,Benton,73965,Republican,"Benton, AR",AR,79.1
+1249,Chicot,2260,Democrat,"Chicot, AR",AR,79.1
+1250,Cleburne,10328,Republican,"Cleburne, AR",AR,79.1
+1251,Conway,5694,Republican,"Conway, AR",AR,79.1
+1252,Craighead,25558,Republican,"Craighead, AR",AR,79.1
+1253,Crittenden,8514,Democrat,"Crittenden, AR",AR,79.1
+1254,Cross,4946,Republican,"Cross, AR",AR,79.1
+1255,Desha,2016,Democrat,"Desha, AR",AR,79.1
+1256,Drew,4349,Republican,"Drew, AR",AR,79.1
+1257,Faulkner,34421,Republican,"Faulkner, AR",AR,79.1
+1258,Garland,29069,Republican,"Garland, AR",AR,79.1
+1259,Hempstead,4470,Republican,"Hempstead, AR",AR,79.1
+1260,Hot spring,9202,Republican,"Hot spring, AR",AR,79.1
+1261,Independence,11250,Republican,"Independence, AR",AR,79.1
+1262,Izard,4631,Republican,"Izard, AR",AR,79.1
+1263,Little river,3715,Republican,"Little river, AR",AR,79.1
+1264,Lonoke,22884,Republican,"Lonoke, AR",AR,79.1
+1265,Miller,11920,Republican,"Miller, AR",AR,79.1
+1266,Mississippi,7296,Republican,"Mississippi, AR",AR,79.1
+1267,Phillips,3623,Democrat,"Phillips, AR",AR,79.1
+1268,Poinsett,5918,Republican,"Poinsett, AR",AR,79.1
+1269,Pope,18081,Republican,"Pope, AR",AR,79.1
+1270,Prairie,2786,Republican,"Prairie, AR",AR,79.1
+1271,Pulaski,101947,Democrat,"Pulaski, AR",AR,79.1
+1272,Saline,39556,Republican,"Saline, AR",AR,79.1
+1273,Searcy,3365,Republican,"Searcy, AR",AR,79.1
+1274,Sebastian,31198,Republican,"Sebastian, AR",AR,79.1
+1275,Sharp,5938,Republican,"Sharp, AR",AR,79.1
+1276,St. francis,3604,Democrat,"St. francis, AR",AR,79.1
+1277,White,24182,Republican,"White, AR",AR,79.1
+1278,Woodruff,1543,Republican,"Woodruff, AR",AR,79.1
+1279,Yell,5226,Republican,"Yell, AR",AR,79.1
+1280,Ashland,19407,Republican,"Ashland, OH",OH,84.6
+1281,Ashtabula,26890,Republican,"Ashtabula, OH",OH,84.6
+1282,Athens,14772,Democrat,"Athens, OH",OH,84.6
+1283,Auglaize,20798,Republican,"Auglaize, OH",OH,84.6
+1284,Belmont,23560,Republican,"Belmont, OH",OH,84.6
+1285,Butler,114392,Republican,"Butler, OH",OH,84.6
+1286,Clermont,74570,Republican,"Clermont, OH",OH,84.6
+1287,Columbiana,35726,Republican,"Columbiana, OH",OH,84.6
+1288,Coshocton,12325,Republican,"Coshocton, OH",OH,84.6
+1289,Cuyahoga,416176,Democrat,"Cuyahoga, OH",OH,84.6
+1290,Darke,22004,Republican,"Darke, OH",OH,84.6
+1291,Defiance,13038,Republican,"Defiance, OH",OH,84.6
+1292,Franklin,409144,Democrat,"Franklin, OH",OH,84.6
+1293,Gallia,10645,Republican,"Gallia, OH",OH,84.6
+1294,Geauga,34143,Republican,"Geauga, OH",OH,84.6
+1295,Guernsey,13407,Republican,"Guernsey, OH",OH,84.6
+1296,Hamilton,246266,Democrat,"Hamilton, OH",OH,84.6
+1297,Highland,15678,Republican,"Highland, OH",OH,84.6
+1298,Hocking,9737,Republican,"Hocking, OH",OH,84.6
+1299,Holmes,10796,Republican,"Holmes, OH",OH,84.6
+1300,Huron,18956,Republican,"Huron, OH",OH,84.6
+1301,Licking,59514,Republican,"Licking, OH",OH,84.6
+1302,Logan,17964,Republican,"Logan, OH",OH,84.6
+1303,Lorain,79520,Republican,"Lorain, OH",OH,84.6
+1304,Lucas,115411,Democrat,"Lucas, OH",OH,84.6
+1305,Mahoning,59903,Republican,"Mahoning, OH",OH,84.6
+1306,Medina,64598,Republican,"Medina, OH",OH,84.6
+1307,Meigs,8316,Republican,"Meigs, OH",OH,84.6
+1308,Miami,41371,Republican,"Miami, OH",OH,84.6
+1309,Morrow,14077,Republican,"Morrow, OH",OH,84.6
+1310,Muskingum,27867,Republican,"Muskingum, OH",OH,84.6
+1311,Pickaway,20593,Republican,"Pickaway, OH",OH,84.6
+1312,Portage,45990,Republican,"Portage, OH",OH,84.6
+1313,Preble,17022,Republican,"Preble, OH",OH,84.6
+1314,Ross,22278,Republican,"Ross, OH",OH,84.6
+1315,Sandusky,18896,Republican,"Sandusky, OH",OH,84.6
+1316,Scioto,22609,Republican,"Scioto, OH",OH,84.6
+1317,Seneca,17086,Republican,"Seneca, OH",OH,84.6
+1318,Stark,111097,Republican,"Stark, OH",OH,84.6
+1319,Summit,151668,Democrat,"Summit, OH",OH,84.6
+1320,Trumbull,55194,Republican,"Trumbull, OH",OH,84.6
+1321,Tuscarawas,30458,Republican,"Tuscarawas, OH",OH,84.6
+1322,Van wert,11650,Republican,"Van wert, OH",OH,84.6
+1323,Vinton,4632,Republican,"Vinton, OH",OH,84.6
+1324,Warren,87988,Republican,"Warren, OH",OH,84.6
+1325,Williams,13452,Republican,"Williams, OH",OH,84.6
+1326,Wood,35757,Republican,"Wood, OH",OH,84.6
+1327,Wyandot,8462,Republican,"Wyandot, OH",OH,84.6
+1328,Asotin,7319,Republican,"Asotin, WA",WA,90.7
+1329,Chelan,22746,Republican,"Chelan, WA",WA,90.7
+1330,Clallam,24721,Democrat,"Clallam, WA",WA,90.7
+1331,Cowlitz,34424,Republican,"Cowlitz, WA",WA,90.7
+1332,Ferry,2771,Republican,"Ferry, WA",WA,90.7
+1333,Grant,24764,Republican,"Grant, WA",WA,90.7
+1334,Grays harbor,19877,Republican,"Grays harbor, WA",WA,90.7
+1335,Island,29213,Democrat,"Island, WA",WA,90.7
+1336,King,907310,Democrat,"King, WA",WA,90.7
+1337,Kitsap,90277,Democrat,"Kitsap, WA",WA,90.7
+1338,Kittitas,14105,Republican,"Kittitas, WA",WA,90.7
+1339,Klickitat,7237,Republican,"Klickitat, WA",WA,90.7
+1340,Lewis,29391,Republican,"Lewis, WA",WA,90.7
+1341,Mason,18710,Republican,"Mason, WA",WA,90.7
+1342,Okanogan,11840,Republican,"Okanogan, WA",WA,90.7
+1343,Pacific,6953,Republican,"Pacific, WA",WA,90.7
+1344,Pend oreille,5728,Republican,"Pend oreille, WA",WA,90.7
+1345,Pierce,249506,Democrat,"Pierce, WA",WA,90.7
+1346,Skagit,38252,Democrat,"Skagit, WA",WA,90.7
+1347,Skamania,3885,Republican,"Skamania, WA",WA,90.7
+1348,Snohomish,256728,Democrat,"Snohomish, WA",WA,90.7
+1349,Spokane,148576,Republican,"Spokane, WA",WA,90.7
+1350,Stevens,19808,Republican,"Stevens, WA",WA,90.7
+1351,Thurston,96608,Democrat,"Thurston, WA",WA,90.7
+1352,Wahkiakum,1741,Republican,"Wahkiakum, WA",WA,90.7
+1353,Walla walla,16400,Republican,"Walla walla, WA",WA,90.7
+1354,Whatcom,83660,Democrat,"Whatcom, WA",WA,90.7
+1355,Whitman,11184,Democrat,"Whitman, WA",WA,90.7
+1356,Yakima,50555,Republican,"Yakima, WA",WA,90.7
+1357,Atchison,4906,Republican,"Atchison, KS",KS,84.5
+1358,Barber,2014,Republican,"Barber, KS",KS,84.5
+1359,Barton,8608,Republican,"Barton, KS",KS,84.5
+1360,Cloud,3242,Republican,"Cloud, KS",KS,84.5
+1361,Coffey,3489,Republican,"Coffey, KS",KS,84.5
+1362,Cowley,9656,Republican,"Cowley, KS",KS,84.5
+1363,Doniphan,2976,Republican,"Doniphan, KS",KS,84.5
+1364,Ellsworth,2148,Republican,"Ellsworth, KS",KS,84.5
+1365,Finney,7236,Republican,"Finney, KS",KS,84.5
+1366,Ford,5803,Republican,"Ford, KS",KS,84.5
+1367,Geary,5323,Republican,"Geary, KS",KS,84.5
+1368,Gove,1291,Republican,"Gove, KS",KS,84.5
+1369,Harper,2168,Republican,"Harper, KS",KS,84.5
+1370,Harvey,10182,Republican,"Harvey, KS",KS,84.5
+1371,Hodgeman,875,Republican,"Hodgeman, KS",KS,84.5
+1372,Jewell,1387,Republican,"Jewell, KS",KS,84.5
+1373,Johnson,184259,Democrat,"Johnson, KS",KS,84.5
+1374,Kearny,1164,Republican,"Kearny, KS",KS,84.5
+1375,Kingman,3130,Republican,"Kingman, KS",KS,84.5
+1376,Labette,5735,Republican,"Labette, KS",KS,84.5
+1377,Leavenworth,21610,Republican,"Leavenworth, KS",KS,84.5
+1378,Mcpherson,9964,Republican,"Mcpherson, KS",KS,84.5
+1379,Nemaha,4664,Republican,"Nemaha, KS",KS,84.5
+1380,Neosho,4970,Republican,"Neosho, KS",KS,84.5
+1381,Ness,1339,Republican,"Ness, KS",KS,84.5
+1382,Norton,2007,Republican,"Norton, KS",KS,84.5
+1383,Osborne,1629,Republican,"Osborne, KS",KS,84.5
+1384,Pratt,3108,Republican,"Pratt, KS",KS,84.5
+1385,Rawlins,1261,Republican,"Rawlins, KS",KS,84.5
+1386,Reno,18443,Republican,"Reno, KS",KS,84.5
+1387,Republic,2182,Republican,"Republic, KS",KS,84.5
+1388,Riley,12765,Democrat,"Riley, KS",KS,84.5
+1389,Rooks,2325,Republican,"Rooks, KS",KS,84.5
+1390,Sedgwick,122416,Republican,"Sedgwick, KS",KS,84.5
+1391,Shawnee,43015,Democrat,"Shawnee, KS",KS,84.5
+1392,Sherman,2269,Republican,"Sherman, KS",KS,84.5
+1393,Trego,1363,Republican,"Trego, KS",KS,84.5
+1394,Wabaunsee,2845,Republican,"Wabaunsee, KS",KS,84.5
+1395,Wallace,770,Republican,"Wallace, KS",KS,84.5
+1396,Woodson,1228,Republican,"Woodson, KS",KS,84.5
+1397,Wyandotte,36788,Democrat,"Wyandotte, KS",KS,84.5
+1398,Atlantic,73808,Democrat,"Atlantic, NJ",NJ,88.5
+1399,Bergen,285967,Democrat,"Bergen, NJ",NJ,88.5
+1400,Burlington,154595,Democrat,"Burlington, NJ",NJ,88.5
+1401,Camden,175065,Democrat,"Camden, NJ",NJ,88.5
+1402,Cape may,33158,Republican,"Cape may, NJ",NJ,88.5
+1403,Gloucester,86702,Democrat,"Gloucester, NJ",NJ,88.5
+1404,Hudson,181452,Democrat,"Hudson, NJ",NJ,88.5
+1405,Hunterdon,43153,Republican,"Hunterdon, NJ",NJ,88.5
+1406,Mercer,122532,Democrat,"Mercer, NJ",NJ,88.5
+1407,Monmouth,191808,Republican,"Monmouth, NJ",NJ,88.5
+1408,Morris,153881,Democrat,"Morris, NJ",NJ,88.5
+1409,Ocean,217740,Republican,"Ocean, NJ",NJ,88.5
+1410,Passaic,129097,Democrat,"Passaic, NJ",NJ,88.5
+1411,Salem,18827,Republican,"Salem, NJ",NJ,88.5
+1412,Somerset,111173,Democrat,"Somerset, NJ",NJ,88.5
+1413,Union,170245,Democrat,"Union, NJ",NJ,88.5
+1414,Aurora,1052,Republican,"Aurora, SD",SD,84.4
+1415,Beadle,4808,Republican,"Beadle, SD",SD,84.4
+1416,Bennett,694,Republican,"Bennett, SD",SD,84.4
+1417,Bon homme,2235,Republican,"Bon homme, SD",SD,84.4
+1418,Brookings,8000,Republican,"Brookings, SD",SD,84.4
+1419,Brule,1750,Republican,"Brule, SD",SD,84.4
+1420,Charles mix,2552,Republican,"Charles mix, SD",SD,84.4
+1421,Codington,8958,Republican,"Codington, SD",SD,84.4
+1422,Corson,647,Republican,"Corson, SD",SD,84.4
+1423,Davison,5613,Republican,"Davison, SD",SD,84.4
+1424,Day,1869,Republican,"Day, SD",SD,84.4
+1425,Deuel,1699,Republican,"Deuel, SD",SD,84.4
+1426,Edmunds,1538,Republican,"Edmunds, SD",SD,84.4
+1427,Fall river,2878,Republican,"Fall river, SD",SD,84.4
+1428,Faulk,964,Republican,"Faulk, SD",SD,84.4
+1429,Gregory,1771,Republican,"Gregory, SD",SD,84.4
+1430,Haakon,1026,Republican,"Haakon, SD",SD,84.4
+1431,Hamlin,2372,Republican,"Hamlin, SD",SD,84.4
+1432,Hand,1433,Republican,"Hand, SD",SD,84.4
+1433,Hanson,1793,Republican,"Hanson, SD",SD,84.4
+1434,Harding,748,Republican,"Harding, SD",SD,84.4
+1435,Hughes,5522,Republican,"Hughes, SD",SD,84.4
+1436,Jerauld,721,Republican,"Jerauld, SD",SD,84.4
+1437,Kingsbury,1904,Republican,"Kingsbury, SD",SD,84.4
+1438,Lyman,1042,Republican,"Lyman, SD",SD,84.4
+1439,Mccook,2068,Republican,"Mccook, SD",SD,84.4
+1440,Mellette,449,Republican,"Mellette, SD",SD,84.4
+1441,Miner,787,Republican,"Miner, SD",SD,84.4
+1442,Minnehaha,49249,Republican,"Minnehaha, SD",SD,84.4
+1443,Moody,1951,Republican,"Moody, SD",SD,84.4
+1444,Oglala lakota,2829,Democrat,"Oglala lakota, SD",SD,84.4
+1445,Pennington,35063,Republican,"Pennington, SD",SD,84.4
+1446,Perkins,1401,Republican,"Perkins, SD",SD,84.4
+1447,Roberts,2404,Republican,"Roberts, SD",SD,84.4
+1448,Sanborn,905,Republican,"Sanborn, SD",SD,84.4
+1449,Spink,2104,Republican,"Spink, SD",SD,84.4
+1450,Stanley,1203,Republican,"Stanley, SD",SD,84.4
+1451,Sully,726,Republican,"Sully, SD",SD,84.4
+1452,Tripp,2161,Republican,"Tripp, SD",SD,84.4
+1453,Turner,3290,Republican,"Turner, SD",SD,84.4
+1454,Yankton,6581,Republican,"Yankton, SD",SD,84.4
+1455,Ziebach,481,Democrat,"Ziebach, SD",SD,84.4
+1456,Autauga,19838,Republican,"Autauga, AL",AL,80.6
+1457,Baldwin,83544,Republican,"Baldwin, AL",AL,80.6
+1458,Barbour,5622,Republican,"Barbour, AL",AL,80.6
+1459,Bullock,3446,Democrat,"Bullock, AL",AL,80.6
+1460,Chilton,16085,Republican,"Chilton, AL",AL,80.6
+1461,Colbert,19203,Republican,"Colbert, AL",AL,80.6
+1462,Conecuh,3442,Republican,"Conecuh, AL",AL,80.6
+1463,Coosa,3631,Republican,"Coosa, AL",AL,80.6
+1464,Covington,14586,Republican,"Covington, AL",AL,80.6
+1465,Crenshaw,4864,Republican,"Crenshaw, AL",AL,80.6
+1466,Cullman,36880,Republican,"Cullman, AL",AL,80.6
+1467,Dale,14303,Republican,"Dale, AL",AL,80.6
+1468,Elmore,30164,Republican,"Elmore, AL",AL,80.6
+1469,Etowah,35528,Republican,"Etowah, AL",AL,80.6
+1470,Geneva,10848,Republican,"Geneva, AL",AL,80.6
+1471,Lauderdale,31721,Republican,"Lauderdale, AL",AL,80.6
+1472,Limestone,34640,Republican,"Limestone, AL",AL,80.6
+1473,Madison,102780,Republican,"Madison, AL",AL,80.6
+1474,Marengo,5488,Democrat,"Marengo, AL",AL,80.6
+1475,Marshall,33191,Republican,"Marshall, AL",AL,80.6
+1476,Mobile,101243,Republican,"Mobile, AL",AL,80.6
+1477,Morgan,39664,Republican,"Morgan, AL",AL,80.6
+1478,Russell,11228,Democrat,"Russell, AL",AL,80.6
+1479,Talladega,22235,Republican,"Talladega, AL",AL,80.6
+1480,Tallapoosa,14963,Republican,"Tallapoosa, AL",AL,80.6
+1481,Tuscaloosa,51117,Republican,"Tuscaloosa, AL",AL,80.6
+1482,Walker,26002,Republican,"Walker, AL",AL,80.6
+1483,Wilcox,4048,Democrat,"Wilcox, AL",AL,80.6
+1484,Winston,10195,Republican,"Winston, AL",AL,80.6
+1485,Barnes,3568,Republican,"Barnes, ND",ND,83.2
+1486,Benson,1094,Republican,"Benson, ND",ND,83.2
+1487,Billings,541,Republican,"Billings, ND",ND,83.2
+1488,Bottineau,2575,Republican,"Bottineau, ND",ND,83.2
+1489,Bowman,1395,Republican,"Bowman, ND",ND,83.2
+1490,Burleigh,34744,Republican,"Burleigh, ND",ND,83.2
+1491,Cass,42619,Republican,"Cass, ND",ND,83.2
+1492,Cavalier,1499,Republican,"Cavalier, ND",ND,83.2
+1493,Dickey,1742,Republican,"Dickey, ND",ND,83.2
+1494,Divide,904,Republican,"Divide, ND",ND,83.2
+1495,Emmons,1738,Republican,"Emmons, ND",ND,83.2
+1496,Foster,1362,Republican,"Foster, ND",ND,83.2
+1497,Golden valley,871,Republican,"Golden valley, ND",ND,83.2
+1498,Grand forks,16987,Republican,"Grand forks, ND",ND,83.2
+1499,Griggs,907,Republican,"Griggs, ND",ND,83.2
+1500,Hettinger,1091,Republican,"Hettinger, ND",ND,83.2
+1501,Kidder,1215,Republican,"Kidder, ND",ND,83.2
+1502,Lamoure,1645,Republican,"Lamoure, ND",ND,83.2
+1503,Mckenzie,4482,Republican,"Mckenzie, ND",ND,83.2
+1504,Morton,12243,Republican,"Morton, ND",ND,83.2
+1505,Mountrail,2824,Republican,"Mountrail, ND",ND,83.2
+1506,Oliver,918,Republican,"Oliver, ND",ND,83.2
+1507,Pembina,2460,Republican,"Pembina, ND",ND,83.2
+1508,Ransom,1418,Republican,"Ransom, ND",ND,83.2
+1509,Rolette,2482,Democrat,"Rolette, ND",ND,83.2
+1510,Sargent,1266,Republican,"Sargent, ND",ND,83.2
+1511,Slope,380,Republican,"Slope, ND",ND,83.2
+1512,Stutsman,6994,Republican,"Stutsman, ND",ND,83.2
+1513,Towner,830,Republican,"Towner, ND",ND,83.2
+1514,Traill,2522,Republican,"Traill, ND",ND,83.2
+1515,Walsh,3324,Republican,"Walsh, ND",ND,83.2
+1516,Ward,19974,Republican,"Ward, ND",ND,83.2
+1517,Barnstable,91994,Democrat,"Barnstable, MA",MA,88.1
+1518,Berkshire,51705,Democrat,"Berkshire, MA",MA,88.1
+1519,Bristol,153377,Democrat,"Bristol, MA",MA,88.1
+1520,Dukes,9914,Democrat,"Dukes, MA",MA,88.1
+1521,Essex,267198,Democrat,"Essex, MA",MA,88.1
+1522,Hampden,125948,Democrat,"Hampden, MA",MA,88.1
+1523,Hampshire,63362,Democrat,"Hampshire, MA",MA,88.1
+1524,Middlesex,617196,Democrat,"Middlesex, MA",MA,88.1
+1525,Nantucket,5241,Democrat,"Nantucket, MA",MA,88.1
+1526,Norfolk,273312,Democrat,"Norfolk, MA",MA,88.1
+1527,Plymouth,173630,Democrat,"Plymouth, MA",MA,88.1
+1528,Worcester,248773,Democrat,"Worcester, MA",MA,88.1
+1529,Barron,15803,Republican,"Barron, WI",WI,85.3
+1530,Bayfield,6147,Democrat,"Bayfield, WI",WI,85.3
+1531,Brown,75871,Republican,"Brown, WI",WI,85.3
+1532,Burnett,6462,Republican,"Burnett, WI",WI,85.3
+1533,Calumet,18156,Republican,"Calumet, WI",WI,85.3
+1534,Chippewa,21317,Republican,"Chippewa, WI",WI,85.3
+1535,Dane,260185,Democrat,"Dane, WI",WI,85.3
+1536,Dodge,31355,Republican,"Dodge, WI",WI,85.3
+1537,Door,10044,Democrat,"Door, WI",WI,85.3
+1538,Dunn,13173,Republican,"Dunn, WI",WI,85.3
+1539,Eau claire,31620,Democrat,"Eau claire, WI",WI,85.3
+1540,Fond du lac,35754,Republican,"Fond du lac, WI",WI,85.3
+1541,Forest,3285,Republican,"Forest, WI",WI,85.3
+1542,Green,10851,Democrat,"Green, WI",WI,85.3
+1543,Green lake,7168,Republican,"Green lake, WI",WI,85.3
+1544,Iowa,7828,Democrat,"Iowa, WI",WI,85.3
+1545,Juneau,8749,Republican,"Juneau, WI",WI,85.3
+1546,Kenosha,44972,Republican,"Kenosha, WI",WI,85.3
+1547,Kewaunee,7927,Republican,"Kewaunee, WI",WI,85.3
+1548,La crosse,37846,Democrat,"La crosse, WI",WI,85.3
+1549,Langlade,7330,Republican,"Langlade, WI",WI,85.3
+1550,Manitowoc,27218,Republican,"Manitowoc, WI",WI,85.3
+1551,Marathon,44624,Republican,"Marathon, WI",WI,85.3
+1552,Marinette,15304,Republican,"Marinette, WI",WI,85.3
+1553,Milwaukee,317270,Democrat,"Milwaukee, WI",WI,85.3
+1554,Oconto,16226,Republican,"Oconto, WI",WI,85.3
+1555,Outagamie,58385,Republican,"Outagamie, WI",WI,85.3
+1556,Ozaukee,33912,Republican,"Ozaukee, WI",WI,85.3
+1557,Pepin,2584,Republican,"Pepin, WI",WI,85.3
+1558,Price,5394,Republican,"Price, WI",WI,85.3
+1559,Racine,54479,Republican,"Racine, WI",WI,85.3
+1560,Rock,46658,Democrat,"Rock, WI",WI,85.3
+1561,Sauk,18108,Democrat,"Sauk, WI",WI,85.3
+1562,Sawyer,5909,Republican,"Sawyer, WI",WI,85.3
+1563,Shawano,15173,Republican,"Shawano, WI",WI,85.3
+1564,Sheboygan,37609,Republican,"Sheboygan, WI",WI,85.3
+1565,St. croix,32199,Republican,"St. croix, WI",WI,85.3
+1566,Trempealeau,8833,Republican,"Trempealeau, WI",WI,85.3
+1567,Vilas,9261,Republican,"Vilas, WI",WI,85.3
+1568,Walworth,33851,Republican,"Walworth, WI",WI,85.3
+1569,Washburn,6334,Republican,"Washburn, WI",WI,85.3
+1570,Waukesha,159649,Republican,"Waukesha, WI",WI,85.3
+1571,Waupaca,18952,Republican,"Waupaca, WI",WI,85.3
+1572,Waushara,9016,Republican,"Waushara, WI",WI,85.3
+1573,Beaverhead,3923,Republican,"Beaverhead, MT",MT,84.4
+1574,Broadwater,3173,Republican,"Broadwater, MT",MT,84.4
+1575,Cascade,23315,Republican,"Cascade, MT",MT,84.4
+1576,Chouteau,1891,Republican,"Chouteau, MT",MT,84.4
+1577,Daniels,799,Republican,"Daniels, MT",MT,84.4
+1578,Deer lodge,2562,Democrat,"Deer lodge, MT",MT,84.4
+1579,Fallon,1375,Republican,"Fallon, MT",MT,84.4
+1580,Fergus,4869,Republican,"Fergus, MT",MT,84.4
+1581,Flathead,38321,Republican,"Flathead, MT",MT,84.4
+1582,Gallatin,37044,Democrat,"Gallatin, MT",MT,84.4
+1583,Glacier,3610,Democrat,"Glacier, MT",MT,84.4
+1584,Granite,1419,Republican,"Granite, MT",MT,84.4
+1585,Judith basin,1040,Republican,"Judith basin, MT",MT,84.4
+1586,Lewis and clark,21409,Republican,"Lewis and clark, MT",MT,84.4
+1587,Mccone,956,Republican,"Mccone, MT",MT,84.4
+1588,Meagher,833,Republican,"Meagher, MT",MT,84.4
+1589,Missoula,43357,Democrat,"Missoula, MT",MT,84.4
+1590,Musselshell,2423,Republican,"Musselshell, MT",MT,84.4
+1591,Petroleum,298,Republican,"Petroleum, MT",MT,84.4
+1592,Pondera,2031,Republican,"Pondera, MT",MT,84.4
+1593,Powder river,970,Republican,"Powder river, MT",MT,84.4
+1594,Ravalli,19114,Republican,"Ravalli, MT",MT,84.4
+1595,Rosebud,2486,Republican,"Rosebud, MT",MT,84.4
+1596,Sanders,5660,Republican,"Sanders, MT",MT,84.4
+1597,Silver bow,10392,Democrat,"Silver bow, MT",MT,84.4
+1598,Stillwater,4462,Republican,"Stillwater, MT",MT,84.4
+1599,Sweet grass,1840,Republican,"Sweet grass, MT",MT,84.4
+1600,Toole,1596,Republican,"Toole, MT",MT,84.4
+1601,Treasure,373,Republican,"Treasure, MT",MT,84.4
+1602,Wheatland,823,Republican,"Wheatland, MT",MT,84.4
+1603,Wibaux,516,Republican,"Wibaux, MT",MT,84.4
+1604,Yellowstone,50772,Republican,"Yellowstone, MT",MT,84.4
+1605,Belknap,20899,Republican,"Belknap, NH",NH,88.5
+1606,Cheshire,25522,Democrat,"Cheshire, NH",NH,88.5
+1607,Grafton,33180,Democrat,"Grafton, NH",NH,88.5
+1608,Merrimack,48533,Democrat,"Merrimack, NH",NH,88.5
+1609,Rockingham,100064,Democrat,"Rockingham, NH",NH,88.5
+1610,Strafford,41721,Democrat,"Strafford, NH",NH,88.5
+1611,Bernalillo,193757,Democrat,"Bernalillo, NM",NM,77.9
+1612,Catron,1698,Republican,"Catron, NM",NM,77.9
+1613,Chaves,15656,Republican,"Chaves, NM",NM,77.9
+1614,Cibola,4745,Democrat,"Cibola, NM",NM,77.9
+1615,Colfax,3271,Republican,"Colfax, NM",NM,77.9
+1616,Curry,10444,Republican,"Curry, NM",NM,77.9
+1617,De baca,656,Republican,"De baca, NM",NM,77.9
+1618,Dona ana,47957,Democrat,"Dona ana, NM",NM,77.9
+1619,Eddy,17454,Republican,"Eddy, NM",NM,77.9
+1620,Lea,16531,Republican,"Lea, NM",NM,77.9
+1621,Los alamos,7554,Democrat,"Los alamos, NM",NM,77.9
+1622,Luna,4408,Republican,"Luna, NM",NM,77.9
+1623,Mckinley,18029,Democrat,"Mckinley, NM",NM,77.9
+1624,Mora,1745,Democrat,"Mora, NM",NM,77.9
+1625,Otero,14521,Republican,"Otero, NM",NM,77.9
+1626,Quay,2634,Republican,"Quay, NM",NM,77.9
+1627,Rio arriba,10990,Democrat,"Rio arriba, NM",NM,77.9
+1628,Roosevelt,4634,Republican,"Roosevelt, NM",NM,77.9
+1629,San juan,32874,Republican,"San juan, NM",NM,77.9
+1630,San miguel,7888,Democrat,"San miguel, NM",NM,77.9
+1631,Sandoval,40588,Democrat,"Sandoval, NM",NM,77.9
+1632,Santa fe,62530,Democrat,"Santa fe, NM",NM,77.9
+1633,Sierra,3542,Republican,"Sierra, NM",NM,77.9
+1634,Socorro,3722,Democrat,"Socorro, NM",NM,77.9
+1635,Taos,13121,Democrat,"Taos, NM",NM,77.9
+1636,Torrance,4772,Republican,"Torrance, NM",NM,77.9
+1637,Valencia,17364,Republican,"Valencia, NM",NM,77.9
+1638,Big horn,4806,Republican,"Big horn, WY",WY,86.9
+1639,Converse,5917,Republican,"Converse, WY",WY,86.9
+1640,Goshen,4878,Republican,"Goshen, WY",WY,86.9
+1641,Hot springs,1999,Republican,"Hot springs, WY",WY,86.9
+1642,Laramie,27891,Republican,"Laramie, WY",WY,86.9
+1643,Natrona,25271,Republican,"Natrona, WY",WY,86.9
+1644,Niobrara,1118,Republican,"Niobrara, WY",WY,86.9
+1645,Park,12813,Republican,"Park, WY",WY,86.9
+1646,Sheridan,11843,Republican,"Sheridan, WY",WY,86.9
+1647,Sublette,3957,Republican,"Sublette, WY",WY,86.9
+1648,Sweetwater,12229,Republican,"Sweetwater, WY",WY,86.9
+1649,Teton,9848,Democrat,"Teton, WY",WY,86.9
+1650,Uinta,7496,Republican,"Uinta, WY",WY,86.9
+1651,Washakie,3245,Republican,"Washakie, WY",WY,86.9
+1652,Weston,3107,Republican,"Weston, WY",WY,86.9
+1653,Bledsoe,4725,Republican,"Bledsoe, TN",TN,82.1
+1654,Blount,47369,Republican,"Blount, TN",TN,82.1
+1655,Bradley,35204,Republican,"Bradley, TN",TN,82.1
+1656,Cannon,5190,Republican,"Cannon, TN",TN,82.1
+1657,Carter,19584,Republican,"Carter, TN",TN,82.1
+1658,Cheatham,14438,Republican,"Cheatham, TN",TN,82.1
+1659,Claiborne,10604,Republican,"Claiborne, TN",TN,82.1
+1660,Cocke,12162,Republican,"Cocke, TN",TN,82.1
+1661,Coffee,17883,Republican,"Coffee, TN",TN,82.1
+1662,Crockett,4673,Republican,"Crockett, TN",TN,82.1
+1663,Davidson,199703,Democrat,"Davidson, TN",TN,82.1
+1664,Dickson,17643,Republican,"Dickson, TN",TN,82.1
+1665,Dyer,11768,Republican,"Dyer, TN",TN,82.1
+1666,Fentress,7441,Republican,"Fentress, TN",TN,82.1
+1667,Gibson,16259,Republican,"Gibson, TN",TN,82.1
+1668,Giles,9784,Republican,"Giles, TN",TN,82.1
+1669,Grainger,8565,Republican,"Grainger, TN",TN,82.1
+1670,Hamblen,18811,Republican,"Hamblen, TN",TN,82.1
+1671,Hardeman,5760,Republican,"Hardeman, TN",TN,82.1
+1672,Hawkins,20405,Republican,"Hawkins, TN",TN,82.1
+1673,Hickman,7577,Republican,"Hickman, TN",TN,82.1
+1674,Humphreys,6120,Republican,"Humphreys, TN",TN,82.1
+1675,Knox,124540,Republican,"Knox, TN",TN,82.1
+1676,Loudon,21713,Republican,"Loudon, TN",TN,82.1
+1677,Maury,31464,Republican,"Maury, TN",TN,82.1
+1678,Mcminn,18198,Republican,"Mcminn, TN",TN,82.1
+1679,Mcnairy,9093,Republican,"Mcnairy, TN",TN,82.1
+1680,Obion,10790,Republican,"Obion, TN",TN,82.1
+1681,Overton,7918,Republican,"Overton, TN",TN,82.1
+1682,Pickett,2381,Republican,"Pickett, TN",TN,82.1
+1683,Rhea,11050,Republican,"Rhea, TN",TN,82.1
+1684,Roane,19230,Republican,"Roane, TN",TN,82.1
+1685,Robertson,24536,Republican,"Robertson, TN",TN,82.1
+1686,Rutherford,81480,Republican,"Rutherford, TN",TN,82.1
+1687,Sequatchie,5855,Republican,"Sequatchie, TN",TN,82.1
+1688,Sevier,33783,Republican,"Sevier, TN",TN,82.1
+1689,Shelby,246105,Democrat,"Shelby, TN",TN,82.1
+1690,Stewart,4950,Republican,"Stewart, TN",TN,82.1
+1691,Sullivan,55860,Republican,"Sullivan, TN",TN,82.1
+1692,Sumner,63454,Republican,"Sumner, TN",TN,82.1
+1693,Tipton,20070,Republican,"Tipton, TN",TN,82.1
+1694,Trousdale,2936,Republican,"Trousdale, TN",TN,82.1
+1695,Unicoi,6599,Republican,"Unicoi, TN",TN,82.1
+1696,Weakley,10396,Republican,"Weakley, TN",TN,82.1
+1697,Wilson,50296,Republican,"Wilson, TN",TN,82.1
+1698,Bond,5625,Republican,"Bond, IL",IL,85.2
+1699,Bureau,10411,Republican,"Bureau, IL",IL,85.2
+1700,Champaign,57067,Democrat,"Champaign, IL",IL,85.2
+1701,Coles,14037,Republican,"Coles, IL",IL,85.2
+1702,Cook,1725973,Democrat,"Cook, IL",IL,85.2
+1703,De witt,5632,Republican,"De witt, IL",IL,85.2
+1704,Dupage,281222,Democrat,"Dupage, IL",IL,85.2
+1705,Edgar,6193,Republican,"Edgar, IL",IL,85.2
+1706,Edwards,2833,Republican,"Edwards, IL",IL,85.2
+1707,Grundy,16523,Republican,"Grundy, IL",IL,85.2
+1708,Iroquois,10877,Republican,"Iroquois, IL",IL,85.2
+1709,Jersey,8712,Republican,"Jersey, IL",IL,85.2
+1710,Jo daviess,7166,Republican,"Jo daviess, IL",IL,85.2
+1711,Kane,130166,Democrat,"Kane, IL",IL,85.2
+1712,Kankakee,28532,Republican,"Kankakee, IL",IL,85.2
+1713,Kendall,33168,Democrat,"Kendall, IL",IL,85.2
+1714,Lake,204032,Democrat,"Lake, IL",IL,85.2
+1715,Lasalle,30113,Republican,"Lasalle, IL",IL,85.2
+1716,Macon,28589,Republican,"Macon, IL",IL,85.2
+1717,Macoupin,16153,Republican,"Macoupin, IL",IL,85.2
+1718,Massac,4997,Republican,"Massac, IL",IL,85.2
+1719,Mcdonough,7027,Republican,"Mcdonough, IL",IL,85.2
+1720,Mchenry,82260,Republican,"Mchenry, IL",IL,85.2
+1721,Mclean,43933,Democrat,"Mclean, IL",IL,85.2
+1722,Menard,4764,Republican,"Menard, IL",IL,85.2
+1723,Moultrie,4964,Republican,"Moultrie, IL",IL,85.2
+1724,Ogle,16248,Republican,"Ogle, IL",IL,85.2
+1725,Peoria,43578,Democrat,"Peoria, IL",IL,85.2
+1726,Piatt,6248,Republican,"Piatt, IL",IL,85.2
+1727,Rock island,36691,Democrat,"Rock island, IL",IL,85.2
+1728,Sangamon,53485,Republican,"Sangamon, IL",IL,85.2
+1729,St. clair,68325,Democrat,"St. clair, IL",IL,85.2
+1730,Stephenson,12521,Republican,"Stephenson, IL",IL,85.2
+1731,Tazewell,42513,Republican,"Tazewell, IL",IL,85.2
+1732,Whiteside,14527,Republican,"Whiteside, IL",IL,85.2
+1733,Will,183915,Democrat,"Will, IL",IL,85.2
+1734,Winnebago,64056,Democrat,"Winnebago, IL",IL,85.2
+1735,Woodford,14799,Republican,"Woodford, IL",IL,85.2
+1736,Box elder,21548,Republican,"Box elder, UT",UT,90.4
+1737,Cache,38032,Republican,"Cache, UT",UT,90.4
+1738,Daggett,496,Republican,"Daggett, UT",UT,90.4
+1739,Davis,104135,Republican,"Davis, UT",UT,90.4
+1740,Duchesne,7512,Republican,"Duchesne, UT",UT,90.4
+1741,Emery,4207,Republican,"Emery, UT",UT,90.4
+1742,Iron,18989,Republican,"Iron, UT",UT,90.4
+1743,Juab,5087,Republican,"Juab, UT",UT,90.4
+1744,Millard,5404,Republican,"Millard, UT",UT,90.4
+1745,Piute,773,Republican,"Piute, UT",UT,90.4
+1746,Rich,1157,Republican,"Rich, UT",UT,90.4
+1747,Salt lake,289906,Democrat,"Salt lake, UT",UT,90.4
+1748,Sanpete,10459,Republican,"Sanpete, UT",UT,90.4
+1749,Tooele,21014,Republican,"Tooele, UT",UT,90.4
+1750,Uintah,13261,Republican,"Uintah, UT",UT,90.4
+1751,Utah,192812,Republican,"Utah, UT",UT,90.4
+1752,Wasatch,10795,Republican,"Wasatch, UT",UT,90.4
+1753,Weber,65949,Republican,"Weber, UT",UT,90.4
+1754,Carson city,16113,Republican,"Carson city, NV",NV,85.0
+1755,Churchill,9367,Republican,"Churchill, NV",NV,85.0
+1756,Clark,521777,Democrat,"Clark, NV",NV,85.0
+1757,Elko,16734,Republican,"Elko, NV",NV,85.0
+1758,Esmeralda,395,Republican,"Esmeralda, NV",NV,85.0
+1759,Eureka,887,Republican,"Eureka, NV",NV,85.0
+1760,Lander,2198,Republican,"Lander, NV",NV,85.0
+1761,Lyon,20906,Republican,"Lyon, NV",NV,85.0
+1762,Nye,17527,Republican,"Nye, NV",NV,85.0
+1763,Pershing,1731,Republican,"Pershing, NV",NV,85.0
+1764,Storey,1901,Republican,"Storey, NV",NV,85.0
+1765,Washoe,128052,Democrat,"Washoe, NV",NV,85.0
+1766,White pine,3400,Republican,"White pine, NV",NV,85.0
+1767,Clackamas,139043,Democrat,"Clackamas, OR",OR,88.5
+1768,Clatsop,12916,Democrat,"Clatsop, OR",OR,88.5
+1769,Coos,21829,Republican,"Coos, OR",OR,88.5
+1770,Crook,11287,Republican,"Crook, OR",OR,88.5
+1771,Deschutes,65962,Democrat,"Deschutes, OR",OR,88.5
+1772,Gilliam,834,Republican,"Gilliam, OR",OR,88.5
+1773,Harney,3475,Republican,"Harney, OR",OR,88.5
+1774,Hood river,8764,Democrat,"Hood river, OR",OR,88.5
+1775,Josephine,31751,Republican,"Josephine, OR",OR,88.5
+1776,Klamath,25308,Republican,"Klamath, OR",OR,88.5
+1777,Lane,134366,Democrat,"Lane, OR",OR,88.5
+1778,Malheur,8187,Republican,"Malheur, OR",OR,88.5
+1779,Multnomah,367249,Democrat,"Multnomah, OR",OR,88.5
+1780,Tillamook,8354,Republican,"Tillamook, OR",OR,88.5
+1781,Umatilla,21270,Republican,"Umatilla, OR",OR,88.5
+1782,Wallowa,3404,Republican,"Wallowa, OR",OR,88.5
+1783,Wasco,7035,Republican,"Wasco, OR",OR,88.5
+1784,Washington,209940,Democrat,"Washington, OR",OR,88.5
+1785,Yamhill,29551,Republican,"Yamhill, OR",OR,88.5
+1786,District 1,3511,Republican,"District 1, AK",AK,87.4
+1787,District 10,8081,Republican,"District 10, AK",AK,87.4
+1788,District 11,7096,Republican,"District 11, AK",AK,87.4
+1789,District 12,7893,Republican,"District 12, AK",AK,87.4
+1790,District 13,4652,Republican,"District 13, AK",AK,87.4
+1791,District 14,6714,Republican,"District 14, AK",AK,87.4
+1792,District 15,2671,Republican,"District 15, AK",AK,87.4
+1793,District 16,4274,Democrat,"District 16, AK",AK,87.4
+1794,District 17,4136,Democrat,"District 17, AK",AK,87.4
+1795,District 18,4681,Democrat,"District 18, AK",AK,87.4
+1796,District 19,3118,Democrat,"District 19, AK",AK,87.4
+1797,District 2,3674,Republican,"District 2, AK",AK,87.4
+1798,District 20,4881,Democrat,"District 20, AK",AK,87.4
+1799,District 21,5414,Democrat,"District 21, AK",AK,87.4
+1800,District 22,4684,Republican,"District 22, AK",AK,87.4
+1801,District 23,3810,Democrat,"District 23, AK",AK,87.4
+1802,District 24,5378,Republican,"District 24, AK",AK,87.4
+1803,District 25,4600,Democrat,"District 25, AK",AK,87.4
+1804,District 26,5243,Republican,"District 26, AK",AK,87.4
+1805,District 27,4844,Democrat,"District 27, AK",AK,87.4
+1806,District 28,6264,Democrat,"District 28, AK",AK,87.4
+1807,District 29,7464,Republican,"District 29, AK",AK,87.4
+1808,District 3,6076,Republican,"District 3, AK",AK,87.4
+1809,District 30,7180,Republican,"District 30, AK",AK,87.4
+1810,District 31,6971,Republican,"District 31, AK",AK,87.4
+1811,District 32,4440,Republican,"District 32, AK",AK,87.4
+1812,District 33,7535,Democrat,"District 33, AK",AK,87.4
+1813,District 34,5763,Democrat,"District 34, AK",AK,87.4
+1814,District 35,5011,Democrat,"District 35, AK",AK,87.4
+1815,District 36,5114,Republican,"District 36, AK",AK,87.4
+1816,District 37,2560,Democrat,"District 37, AK",AK,87.4
+1817,District 38,3202,Democrat,"District 38, AK",AK,87.4
+1818,District 39,3580,Democrat,"District 39, AK",AK,87.4
+1819,District 4,5345,Democrat,"District 4, AK",AK,87.4
+1820,District 40,2318,Democrat,"District 40, AK",AK,87.4
+1821,District 5,4204,Democrat,"District 5, AK",AK,87.4
+1822,District 6,5770,Republican,"District 6, AK",AK,87.4
+1823,District 7,7027,Republican,"District 7, AK",AK,87.4
+1824,District 8,7618,Republican,"District 8, AK",AK,87.4
+1825,District 9,7787,Republican,"District 9, AK",AK,87.4
+1826,District 99,373,Democrat,"District 99, AK",AK,87.4
+1827,District of columbia,317323,Democrat,"District of columbia, DC",DC,86.8
+1828,Fairfield,297505,Democrat,"Fairfield, CT",CT,87.8
+1829,Hartford,283368,Democrat,"Hartford, CT",CT,87.8
+1830,Litchfield,55601,Republican,"Litchfield, CT",CT,87.8
+1831,New haven,242630,Democrat,"New haven, CT",CT,87.8
+1832,New london,79459,Democrat,"New london, CT",CT,87.8
+1833,Tolland,44151,Democrat,"Tolland, CT",CT,87.8
+1834,Windham,29141,Republican,"Windham, CT",CT,87.8
+1835,Federal precinct,1276,Democrat,"Federal precinct, RI",RI,86.6
+1836,Newport,29486,Democrat,"Newport, RI",RI,86.6
+1837,Providence,165012,Democrat,"Providence, RI",RI,86.6
+1838,Hawaii,58731,Democrat,"Hawaii, HI",HI,87.5
+1839,Honolulu,238866,Democrat,"Honolulu, HI",HI,87.5
+1840,Kauai,21225,Democrat,"Kauai, HI",HI,87.5
+1841,Maui,47305,Democrat,"Maui, HI",HI,87.5
+1842,New castle,195034,Democrat,"New castle, DE",DE,87.9
+1843,Sussex,71230,Republican,"Sussex, DE",DE,87.9
